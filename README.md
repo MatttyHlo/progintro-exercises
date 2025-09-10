@@ -9,5 +9,5 @@ Useful links:
 - [LinkedIn](https://www.linkedin.com/in/matou%C5%A1-hlobil-678983238/)
 
 ## Formatting Examples:
-1. *Italic* text.
-2. **Bold** Text.
+1. *Italic* emphasis.
+2. **Bold** emphasis.
