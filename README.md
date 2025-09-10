@@ -8,6 +8,6 @@ Useful links:
 
 - [LinkedIn](https://www.linkedin.com/in/matou%C5%A1-hlobil-678983238/)
 
-## Formatting Examples:
 1. *Italic* tekst.
-2. **Bold** Tekst.
+2. **Bold** emphasis.
+
