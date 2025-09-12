@@ -1,0 +1,15 @@
+/home/sutanev/Documents/Code/progintro-exercises/04_Integral_types/bin/Debug/net8.0/04_Integral_types
+/home/sutanev/Documents/Code/progintro-exercises/04_Integral_types/bin/Debug/net8.0/04_Integral_types.deps.json
+/home/sutanev/Documents/Code/progintro-exercises/04_Integral_types/bin/Debug/net8.0/04_Integral_types.runtimeconfig.json
+/home/sutanev/Documents/Code/progintro-exercises/04_Integral_types/bin/Debug/net8.0/04_Integral_types.dll
+/home/sutanev/Documents/Code/progintro-exercises/04_Integral_types/bin/Debug/net8.0/04_Integral_types.pdb
+/home/sutanev/Documents/Code/progintro-exercises/04_Integral_types/obj/Debug/net8.0/04_Integral_types.GeneratedMSBuildEditorConfig.editorconfig
+/home/sutanev/Documents/Code/progintro-exercises/04_Integral_types/obj/Debug/net8.0/04_Integral_types.AssemblyInfoInputs.cache
+/home/sutanev/Documents/Code/progintro-exercises/04_Integral_types/obj/Debug/net8.0/04_Integral_types.AssemblyInfo.cs
+/home/sutanev/Documents/Code/progintro-exercises/04_Integral_types/obj/Debug/net8.0/04_Integral_types.csproj.CoreCompileInputs.cache
+/home/sutanev/Documents/Code/progintro-exercises/04_Integral_types/obj/Debug/net8.0/04_Integral_types.sourcelink.json
+/home/sutanev/Documents/Code/progintro-exercises/04_Integral_types/obj/Debug/net8.0/04_Integral_types.dll
+/home/sutanev/Documents/Code/progintro-exercises/04_Integral_types/obj/Debug/net8.0/refint/04_Integral_types.dll
+/home/sutanev/Documents/Code/progintro-exercises/04_Integral_types/obj/Debug/net8.0/04_Integral_types.pdb
+/home/sutanev/Documents/Code/progintro-exercises/04_Integral_types/obj/Debug/net8.0/04_Integral_types.genruntimeconfig.cache
+/home/sutanev/Documents/Code/progintro-exercises/04_Integral_types/obj/Debug/net8.0/ref/04_Integral_types.dll
