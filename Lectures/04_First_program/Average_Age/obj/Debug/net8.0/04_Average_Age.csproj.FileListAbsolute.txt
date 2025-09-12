@@ -1,0 +1,15 @@
+/home/sutanev/Documents/Code/progintro-exercises/04_Average_Age/bin/Debug/net8.0/04_Average_Age
+/home/sutanev/Documents/Code/progintro-exercises/04_Average_Age/bin/Debug/net8.0/04_Average_Age.deps.json
+/home/sutanev/Documents/Code/progintro-exercises/04_Average_Age/bin/Debug/net8.0/04_Average_Age.runtimeconfig.json
+/home/sutanev/Documents/Code/progintro-exercises/04_Average_Age/bin/Debug/net8.0/04_Average_Age.dll
+/home/sutanev/Documents/Code/progintro-exercises/04_Average_Age/bin/Debug/net8.0/04_Average_Age.pdb
+/home/sutanev/Documents/Code/progintro-exercises/04_Average_Age/obj/Debug/net8.0/04_Average_Age.GeneratedMSBuildEditorConfig.editorconfig
+/home/sutanev/Documents/Code/progintro-exercises/04_Average_Age/obj/Debug/net8.0/04_Average_Age.AssemblyInfoInputs.cache
+/home/sutanev/Documents/Code/progintro-exercises/04_Average_Age/obj/Debug/net8.0/04_Average_Age.AssemblyInfo.cs
+/home/sutanev/Documents/Code/progintro-exercises/04_Average_Age/obj/Debug/net8.0/04_Average_Age.csproj.CoreCompileInputs.cache
+/home/sutanev/Documents/Code/progintro-exercises/04_Average_Age/obj/Debug/net8.0/04_Average_Age.sourcelink.json
+/home/sutanev/Documents/Code/progintro-exercises/04_Average_Age/obj/Debug/net8.0/04_Average_Age.dll
+/home/sutanev/Documents/Code/progintro-exercises/04_Average_Age/obj/Debug/net8.0/refint/04_Average_Age.dll
+/home/sutanev/Documents/Code/progintro-exercises/04_Average_Age/obj/Debug/net8.0/04_Average_Age.pdb
+/home/sutanev/Documents/Code/progintro-exercises/04_Average_Age/obj/Debug/net8.0/04_Average_Age.genruntimeconfig.cache
+/home/sutanev/Documents/Code/progintro-exercises/04_Average_Age/obj/Debug/net8.0/ref/04_Average_Age.dll
