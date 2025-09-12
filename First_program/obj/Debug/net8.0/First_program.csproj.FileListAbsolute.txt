@@ -1,0 +1,15 @@
+/home/sutanev/Documents/git_test/progintro/progintro-exercises/First_program/bin/Debug/net8.0/First_program
+/home/sutanev/Documents/git_test/progintro/progintro-exercises/First_program/bin/Debug/net8.0/First_program.deps.json
+/home/sutanev/Documents/git_test/progintro/progintro-exercises/First_program/bin/Debug/net8.0/First_program.runtimeconfig.json
+/home/sutanev/Documents/git_test/progintro/progintro-exercises/First_program/bin/Debug/net8.0/First_program.dll
+/home/sutanev/Documents/git_test/progintro/progintro-exercises/First_program/bin/Debug/net8.0/First_program.pdb
+/home/sutanev/Documents/git_test/progintro/progintro-exercises/First_program/obj/Debug/net8.0/First_program.GeneratedMSBuildEditorConfig.editorconfig
+/home/sutanev/Documents/git_test/progintro/progintro-exercises/First_program/obj/Debug/net8.0/First_program.AssemblyInfoInputs.cache
+/home/sutanev/Documents/git_test/progintro/progintro-exercises/First_program/obj/Debug/net8.0/First_program.AssemblyInfo.cs
+/home/sutanev/Documents/git_test/progintro/progintro-exercises/First_program/obj/Debug/net8.0/First_program.csproj.CoreCompileInputs.cache
+/home/sutanev/Documents/git_test/progintro/progintro-exercises/First_program/obj/Debug/net8.0/First_program.sourcelink.json
+/home/sutanev/Documents/git_test/progintro/progintro-exercises/First_program/obj/Debug/net8.0/First_program.dll
+/home/sutanev/Documents/git_test/progintro/progintro-exercises/First_program/obj/Debug/net8.0/refint/First_program.dll
+/home/sutanev/Documents/git_test/progintro/progintro-exercises/First_program/obj/Debug/net8.0/First_program.pdb
+/home/sutanev/Documents/git_test/progintro/progintro-exercises/First_program/obj/Debug/net8.0/First_program.genruntimeconfig.cache
+/home/sutanev/Documents/git_test/progintro/progintro-exercises/First_program/obj/Debug/net8.0/ref/First_program.dll
