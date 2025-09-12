@@ -1,4 +1,0 @@
-The code firstly assigns integer values to 6 variables. 
-Each variable is named after a computer scientist and is assigned his/her age.
-then the average age of males, females and everyone is calculated to 3 new variables of type float.
-Finnaly we will output the final values to the Console.

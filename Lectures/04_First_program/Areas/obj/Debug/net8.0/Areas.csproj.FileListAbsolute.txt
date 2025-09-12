@@ -1,0 +1,15 @@
+/home/sutanev/Documents/Code/progintro-exercises/Lectures/04_First_program/Areas/bin/Debug/net8.0/Areas
+/home/sutanev/Documents/Code/progintro-exercises/Lectures/04_First_program/Areas/bin/Debug/net8.0/Areas.deps.json
+/home/sutanev/Documents/Code/progintro-exercises/Lectures/04_First_program/Areas/bin/Debug/net8.0/Areas.runtimeconfig.json
+/home/sutanev/Documents/Code/progintro-exercises/Lectures/04_First_program/Areas/bin/Debug/net8.0/Areas.dll
+/home/sutanev/Documents/Code/progintro-exercises/Lectures/04_First_program/Areas/bin/Debug/net8.0/Areas.pdb
+/home/sutanev/Documents/Code/progintro-exercises/Lectures/04_First_program/Areas/obj/Debug/net8.0/Areas.GeneratedMSBuildEditorConfig.editorconfig
+/home/sutanev/Documents/Code/progintro-exercises/Lectures/04_First_program/Areas/obj/Debug/net8.0/Areas.AssemblyInfoInputs.cache
+/home/sutanev/Documents/Code/progintro-exercises/Lectures/04_First_program/Areas/obj/Debug/net8.0/Areas.AssemblyInfo.cs
+/home/sutanev/Documents/Code/progintro-exercises/Lectures/04_First_program/Areas/obj/Debug/net8.0/Areas.csproj.CoreCompileInputs.cache
+/home/sutanev/Documents/Code/progintro-exercises/Lectures/04_First_program/Areas/obj/Debug/net8.0/Areas.sourcelink.json
+/home/sutanev/Documents/Code/progintro-exercises/Lectures/04_First_program/Areas/obj/Debug/net8.0/Areas.dll
+/home/sutanev/Documents/Code/progintro-exercises/Lectures/04_First_program/Areas/obj/Debug/net8.0/refint/Areas.dll
+/home/sutanev/Documents/Code/progintro-exercises/Lectures/04_First_program/Areas/obj/Debug/net8.0/Areas.pdb
+/home/sutanev/Documents/Code/progintro-exercises/Lectures/04_First_program/Areas/obj/Debug/net8.0/Areas.genruntimeconfig.cache
+/home/sutanev/Documents/Code/progintro-exercises/Lectures/04_First_program/Areas/obj/Debug/net8.0/ref/Areas.dll

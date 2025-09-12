@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/sutanev/Documents/Code/progintro-exercises/04_Celsius/04_Celsius.csproj",
-      "projectName": "04_Celsius",
-      "projectPath": "/home/sutanev/Documents/Code/progintro-exercises/04_Celsius/04_Celsius.csproj",
+      "projectUniqueName": "/home/sutanev/Documents/Code/progintro-exercises/Lectures/04_First_program/Celsius/Celsius.csproj",
+      "projectName": "Celsius",
+      "projectPath": "/home/sutanev/Documents/Code/progintro-exercises/Lectures/04_First_program/Celsius/Celsius.csproj",
       "packagesPath": "/home/sutanev/.nuget/packages/",
-      "outputPath": "/home/sutanev/Documents/Code/progintro-exercises/04_Celsius/obj/",
+      "outputPath": "/home/sutanev/Documents/Code/progintro-exercises/Lectures/04_First_program/Celsius/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/home/sutanev/.nuget/NuGet/NuGet.Config"

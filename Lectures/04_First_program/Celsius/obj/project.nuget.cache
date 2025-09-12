@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Yjwn6bq1ljXY/9/iCIryeGPamUoHhit3CTWKXPneURBNGVCrAjTsGD2D0e0D+xvJCom5Erc5w5fUA2vrb7jeag==",
+  "dgSpecHash": "T0GFkxmz13P9tNNMizw9OLgrwISMsBAbJiCSVDbUdVjAaem0sK8IQb4wKWw6FOYbWu6j1egRcFQRyzIITxm7mg==",
   "success": true,
-  "projectFilePath": "/home/sutanev/Documents/Code/progintro-exercises/04_Celsius/04_Celsius.csproj",
+  "projectFilePath": "/home/sutanev/Documents/Code/progintro-exercises/Lectures/04_First_program/Celsius/Celsius.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

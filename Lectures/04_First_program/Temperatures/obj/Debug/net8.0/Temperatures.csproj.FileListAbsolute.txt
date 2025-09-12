@@ -1,0 +1,15 @@
+/home/sutanev/Documents/Code/progintro-exercises/Lectures/04_First_program/Temperatures/bin/Debug/net8.0/Temperatures
+/home/sutanev/Documents/Code/progintro-exercises/Lectures/04_First_program/Temperatures/bin/Debug/net8.0/Temperatures.deps.json
+/home/sutanev/Documents/Code/progintro-exercises/Lectures/04_First_program/Temperatures/bin/Debug/net8.0/Temperatures.runtimeconfig.json
+/home/sutanev/Documents/Code/progintro-exercises/Lectures/04_First_program/Temperatures/bin/Debug/net8.0/Temperatures.dll
+/home/sutanev/Documents/Code/progintro-exercises/Lectures/04_First_program/Temperatures/bin/Debug/net8.0/Temperatures.pdb
+/home/sutanev/Documents/Code/progintro-exercises/Lectures/04_First_program/Temperatures/obj/Debug/net8.0/Temperatures.GeneratedMSBuildEditorConfig.editorconfig
+/home/sutanev/Documents/Code/progintro-exercises/Lectures/04_First_program/Temperatures/obj/Debug/net8.0/Temperatures.AssemblyInfoInputs.cache
+/home/sutanev/Documents/Code/progintro-exercises/Lectures/04_First_program/Temperatures/obj/Debug/net8.0/Temperatures.AssemblyInfo.cs
+/home/sutanev/Documents/Code/progintro-exercises/Lectures/04_First_program/Temperatures/obj/Debug/net8.0/Temperatures.csproj.CoreCompileInputs.cache
+/home/sutanev/Documents/Code/progintro-exercises/Lectures/04_First_program/Temperatures/obj/Debug/net8.0/Temperatures.sourcelink.json
+/home/sutanev/Documents/Code/progintro-exercises/Lectures/04_First_program/Temperatures/obj/Debug/net8.0/Temperatures.dll
+/home/sutanev/Documents/Code/progintro-exercises/Lectures/04_First_program/Temperatures/obj/Debug/net8.0/refint/Temperatures.dll
+/home/sutanev/Documents/Code/progintro-exercises/Lectures/04_First_program/Temperatures/obj/Debug/net8.0/Temperatures.pdb
+/home/sutanev/Documents/Code/progintro-exercises/Lectures/04_First_program/Temperatures/obj/Debug/net8.0/Temperatures.genruntimeconfig.cache
+/home/sutanev/Documents/Code/progintro-exercises/Lectures/04_First_program/Temperatures/obj/Debug/net8.0/ref/Temperatures.dll

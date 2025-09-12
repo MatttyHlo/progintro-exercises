@@ -1,0 +1,15 @@
+/home/sutanev/Documents/Code/progintro-exercises/Lectures/04_First_program/Celsius/bin/Debug/net8.0/Celsius
+/home/sutanev/Documents/Code/progintro-exercises/Lectures/04_First_program/Celsius/bin/Debug/net8.0/Celsius.deps.json
+/home/sutanev/Documents/Code/progintro-exercises/Lectures/04_First_program/Celsius/bin/Debug/net8.0/Celsius.runtimeconfig.json
+/home/sutanev/Documents/Code/progintro-exercises/Lectures/04_First_program/Celsius/bin/Debug/net8.0/Celsius.dll
+/home/sutanev/Documents/Code/progintro-exercises/Lectures/04_First_program/Celsius/bin/Debug/net8.0/Celsius.pdb
+/home/sutanev/Documents/Code/progintro-exercises/Lectures/04_First_program/Celsius/obj/Debug/net8.0/Celsius.GeneratedMSBuildEditorConfig.editorconfig
+/home/sutanev/Documents/Code/progintro-exercises/Lectures/04_First_program/Celsius/obj/Debug/net8.0/Celsius.AssemblyInfoInputs.cache
+/home/sutanev/Documents/Code/progintro-exercises/Lectures/04_First_program/Celsius/obj/Debug/net8.0/Celsius.AssemblyInfo.cs
+/home/sutanev/Documents/Code/progintro-exercises/Lectures/04_First_program/Celsius/obj/Debug/net8.0/Celsius.csproj.CoreCompileInputs.cache
+/home/sutanev/Documents/Code/progintro-exercises/Lectures/04_First_program/Celsius/obj/Debug/net8.0/Celsius.sourcelink.json
+/home/sutanev/Documents/Code/progintro-exercises/Lectures/04_First_program/Celsius/obj/Debug/net8.0/Celsius.dll
+/home/sutanev/Documents/Code/progintro-exercises/Lectures/04_First_program/Celsius/obj/Debug/net8.0/refint/Celsius.dll
+/home/sutanev/Documents/Code/progintro-exercises/Lectures/04_First_program/Celsius/obj/Debug/net8.0/Celsius.pdb
+/home/sutanev/Documents/Code/progintro-exercises/Lectures/04_First_program/Celsius/obj/Debug/net8.0/Celsius.genruntimeconfig.cache
+/home/sutanev/Documents/Code/progintro-exercises/Lectures/04_First_program/Celsius/obj/Debug/net8.0/ref/Celsius.dll

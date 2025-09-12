@@ -8,6 +8,6 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = First_program
-build_property.ProjectDir = /home/sutanev/Documents/git_test/progintro/progintro-exercises/First_program/
+build_property.ProjectDir = /home/sutanev/Documents/Code/progintro-exercises/Lectures/04_First_program/First_program/
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
