@@ -1,0 +1,15 @@
+/home/sutanev/Documents/Code/progintro-exercises/Lectures/05_Control_Flow/Celsius_conversion/bin/Debug/net8.0/Celsius_conversion
+/home/sutanev/Documents/Code/progintro-exercises/Lectures/05_Control_Flow/Celsius_conversion/bin/Debug/net8.0/Celsius_conversion.deps.json
+/home/sutanev/Documents/Code/progintro-exercises/Lectures/05_Control_Flow/Celsius_conversion/bin/Debug/net8.0/Celsius_conversion.runtimeconfig.json
+/home/sutanev/Documents/Code/progintro-exercises/Lectures/05_Control_Flow/Celsius_conversion/bin/Debug/net8.0/Celsius_conversion.dll
+/home/sutanev/Documents/Code/progintro-exercises/Lectures/05_Control_Flow/Celsius_conversion/bin/Debug/net8.0/Celsius_conversion.pdb
+/home/sutanev/Documents/Code/progintro-exercises/Lectures/05_Control_Flow/Celsius_conversion/obj/Debug/net8.0/Celsius_conversion.GeneratedMSBuildEditorConfig.editorconfig
+/home/sutanev/Documents/Code/progintro-exercises/Lectures/05_Control_Flow/Celsius_conversion/obj/Debug/net8.0/Celsius_conversion.AssemblyInfoInputs.cache
+/home/sutanev/Documents/Code/progintro-exercises/Lectures/05_Control_Flow/Celsius_conversion/obj/Debug/net8.0/Celsius_conversion.AssemblyInfo.cs
+/home/sutanev/Documents/Code/progintro-exercises/Lectures/05_Control_Flow/Celsius_conversion/obj/Debug/net8.0/Celsius_conversion.csproj.CoreCompileInputs.cache
+/home/sutanev/Documents/Code/progintro-exercises/Lectures/05_Control_Flow/Celsius_conversion/obj/Debug/net8.0/Celsius_conversion.sourcelink.json
+/home/sutanev/Documents/Code/progintro-exercises/Lectures/05_Control_Flow/Celsius_conversion/obj/Debug/net8.0/Celsius_conversion.dll
+/home/sutanev/Documents/Code/progintro-exercises/Lectures/05_Control_Flow/Celsius_conversion/obj/Debug/net8.0/refint/Celsius_conversion.dll
+/home/sutanev/Documents/Code/progintro-exercises/Lectures/05_Control_Flow/Celsius_conversion/obj/Debug/net8.0/Celsius_conversion.pdb
+/home/sutanev/Documents/Code/progintro-exercises/Lectures/05_Control_Flow/Celsius_conversion/obj/Debug/net8.0/Celsius_conversion.genruntimeconfig.cache
+/home/sutanev/Documents/Code/progintro-exercises/Lectures/05_Control_Flow/Celsius_conversion/obj/Debug/net8.0/ref/Celsius_conversion.dll

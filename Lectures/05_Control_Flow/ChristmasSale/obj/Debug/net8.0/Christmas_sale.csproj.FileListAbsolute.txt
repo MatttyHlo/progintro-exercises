@@ -1,0 +1,15 @@
+/home/sutanev/Documents/Code/progintro-exercises/Lectures/05_Control_Flow/Christmas_sale/bin/Debug/net8.0/Christmas_sale
+/home/sutanev/Documents/Code/progintro-exercises/Lectures/05_Control_Flow/Christmas_sale/bin/Debug/net8.0/Christmas_sale.deps.json
+/home/sutanev/Documents/Code/progintro-exercises/Lectures/05_Control_Flow/Christmas_sale/bin/Debug/net8.0/Christmas_sale.runtimeconfig.json
+/home/sutanev/Documents/Code/progintro-exercises/Lectures/05_Control_Flow/Christmas_sale/bin/Debug/net8.0/Christmas_sale.dll
+/home/sutanev/Documents/Code/progintro-exercises/Lectures/05_Control_Flow/Christmas_sale/bin/Debug/net8.0/Christmas_sale.pdb
+/home/sutanev/Documents/Code/progintro-exercises/Lectures/05_Control_Flow/Christmas_sale/obj/Debug/net8.0/Christmas_sale.GeneratedMSBuildEditorConfig.editorconfig
+/home/sutanev/Documents/Code/progintro-exercises/Lectures/05_Control_Flow/Christmas_sale/obj/Debug/net8.0/Christmas_sale.AssemblyInfoInputs.cache
+/home/sutanev/Documents/Code/progintro-exercises/Lectures/05_Control_Flow/Christmas_sale/obj/Debug/net8.0/Christmas_sale.AssemblyInfo.cs
+/home/sutanev/Documents/Code/progintro-exercises/Lectures/05_Control_Flow/Christmas_sale/obj/Debug/net8.0/Christmas_sale.csproj.CoreCompileInputs.cache
+/home/sutanev/Documents/Code/progintro-exercises/Lectures/05_Control_Flow/Christmas_sale/obj/Debug/net8.0/Christmas_sale.sourcelink.json
+/home/sutanev/Documents/Code/progintro-exercises/Lectures/05_Control_Flow/Christmas_sale/obj/Debug/net8.0/Christmas_sale.dll
+/home/sutanev/Documents/Code/progintro-exercises/Lectures/05_Control_Flow/Christmas_sale/obj/Debug/net8.0/refint/Christmas_sale.dll
+/home/sutanev/Documents/Code/progintro-exercises/Lectures/05_Control_Flow/Christmas_sale/obj/Debug/net8.0/Christmas_sale.pdb
+/home/sutanev/Documents/Code/progintro-exercises/Lectures/05_Control_Flow/Christmas_sale/obj/Debug/net8.0/Christmas_sale.genruntimeconfig.cache
+/home/sutanev/Documents/Code/progintro-exercises/Lectures/05_Control_Flow/Christmas_sale/obj/Debug/net8.0/ref/Christmas_sale.dll

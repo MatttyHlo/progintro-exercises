@@ -1,0 +1,15 @@
+/home/sutanev/Documents/Code/progintro-exercises/Lectures/05_Control_Flow/LengthOfAMonth/bin/Debug/net8.0/LengthOfAMonth
+/home/sutanev/Documents/Code/progintro-exercises/Lectures/05_Control_Flow/LengthOfAMonth/bin/Debug/net8.0/LengthOfAMonth.deps.json
+/home/sutanev/Documents/Code/progintro-exercises/Lectures/05_Control_Flow/LengthOfAMonth/bin/Debug/net8.0/LengthOfAMonth.runtimeconfig.json
+/home/sutanev/Documents/Code/progintro-exercises/Lectures/05_Control_Flow/LengthOfAMonth/bin/Debug/net8.0/LengthOfAMonth.dll
+/home/sutanev/Documents/Code/progintro-exercises/Lectures/05_Control_Flow/LengthOfAMonth/bin/Debug/net8.0/LengthOfAMonth.pdb
+/home/sutanev/Documents/Code/progintro-exercises/Lectures/05_Control_Flow/LengthOfAMonth/obj/Debug/net8.0/LengthOfAMonth.GeneratedMSBuildEditorConfig.editorconfig
+/home/sutanev/Documents/Code/progintro-exercises/Lectures/05_Control_Flow/LengthOfAMonth/obj/Debug/net8.0/LengthOfAMonth.AssemblyInfoInputs.cache
+/home/sutanev/Documents/Code/progintro-exercises/Lectures/05_Control_Flow/LengthOfAMonth/obj/Debug/net8.0/LengthOfAMonth.AssemblyInfo.cs
+/home/sutanev/Documents/Code/progintro-exercises/Lectures/05_Control_Flow/LengthOfAMonth/obj/Debug/net8.0/LengthOfAMonth.csproj.CoreCompileInputs.cache
+/home/sutanev/Documents/Code/progintro-exercises/Lectures/05_Control_Flow/LengthOfAMonth/obj/Debug/net8.0/LengthOfAMonth.sourcelink.json
+/home/sutanev/Documents/Code/progintro-exercises/Lectures/05_Control_Flow/LengthOfAMonth/obj/Debug/net8.0/LengthOfAMonth.dll
+/home/sutanev/Documents/Code/progintro-exercises/Lectures/05_Control_Flow/LengthOfAMonth/obj/Debug/net8.0/refint/LengthOfAMonth.dll
+/home/sutanev/Documents/Code/progintro-exercises/Lectures/05_Control_Flow/LengthOfAMonth/obj/Debug/net8.0/LengthOfAMonth.pdb
+/home/sutanev/Documents/Code/progintro-exercises/Lectures/05_Control_Flow/LengthOfAMonth/obj/Debug/net8.0/LengthOfAMonth.genruntimeconfig.cache
+/home/sutanev/Documents/Code/progintro-exercises/Lectures/05_Control_Flow/LengthOfAMonth/obj/Debug/net8.0/ref/LengthOfAMonth.dll

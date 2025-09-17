@@ -1,0 +1,15 @@
+/home/sutanev/Documents/Code/progintro-exercises/Lectures/05_Control_Flow/Primes/bin/Debug/net8.0/Primes
+/home/sutanev/Documents/Code/progintro-exercises/Lectures/05_Control_Flow/Primes/bin/Debug/net8.0/Primes.deps.json
+/home/sutanev/Documents/Code/progintro-exercises/Lectures/05_Control_Flow/Primes/bin/Debug/net8.0/Primes.runtimeconfig.json
+/home/sutanev/Documents/Code/progintro-exercises/Lectures/05_Control_Flow/Primes/bin/Debug/net8.0/Primes.dll
+/home/sutanev/Documents/Code/progintro-exercises/Lectures/05_Control_Flow/Primes/bin/Debug/net8.0/Primes.pdb
+/home/sutanev/Documents/Code/progintro-exercises/Lectures/05_Control_Flow/Primes/obj/Debug/net8.0/Primes.GeneratedMSBuildEditorConfig.editorconfig
+/home/sutanev/Documents/Code/progintro-exercises/Lectures/05_Control_Flow/Primes/obj/Debug/net8.0/Primes.AssemblyInfoInputs.cache
+/home/sutanev/Documents/Code/progintro-exercises/Lectures/05_Control_Flow/Primes/obj/Debug/net8.0/Primes.AssemblyInfo.cs
+/home/sutanev/Documents/Code/progintro-exercises/Lectures/05_Control_Flow/Primes/obj/Debug/net8.0/Primes.csproj.CoreCompileInputs.cache
+/home/sutanev/Documents/Code/progintro-exercises/Lectures/05_Control_Flow/Primes/obj/Debug/net8.0/Primes.sourcelink.json
+/home/sutanev/Documents/Code/progintro-exercises/Lectures/05_Control_Flow/Primes/obj/Debug/net8.0/Primes.dll
+/home/sutanev/Documents/Code/progintro-exercises/Lectures/05_Control_Flow/Primes/obj/Debug/net8.0/refint/Primes.dll
+/home/sutanev/Documents/Code/progintro-exercises/Lectures/05_Control_Flow/Primes/obj/Debug/net8.0/Primes.pdb
+/home/sutanev/Documents/Code/progintro-exercises/Lectures/05_Control_Flow/Primes/obj/Debug/net8.0/Primes.genruntimeconfig.cache
+/home/sutanev/Documents/Code/progintro-exercises/Lectures/05_Control_Flow/Primes/obj/Debug/net8.0/ref/Primes.dll

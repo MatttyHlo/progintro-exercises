@@ -1,0 +1,15 @@
+/home/sutanev/Documents/Code/progintro-exercises/Lectures/05_Control_Flow/Dice/bin/Debug/net8.0/Dice
+/home/sutanev/Documents/Code/progintro-exercises/Lectures/05_Control_Flow/Dice/bin/Debug/net8.0/Dice.deps.json
+/home/sutanev/Documents/Code/progintro-exercises/Lectures/05_Control_Flow/Dice/bin/Debug/net8.0/Dice.runtimeconfig.json
+/home/sutanev/Documents/Code/progintro-exercises/Lectures/05_Control_Flow/Dice/bin/Debug/net8.0/Dice.dll
+/home/sutanev/Documents/Code/progintro-exercises/Lectures/05_Control_Flow/Dice/bin/Debug/net8.0/Dice.pdb
+/home/sutanev/Documents/Code/progintro-exercises/Lectures/05_Control_Flow/Dice/obj/Debug/net8.0/Dice.GeneratedMSBuildEditorConfig.editorconfig
+/home/sutanev/Documents/Code/progintro-exercises/Lectures/05_Control_Flow/Dice/obj/Debug/net8.0/Dice.AssemblyInfoInputs.cache
+/home/sutanev/Documents/Code/progintro-exercises/Lectures/05_Control_Flow/Dice/obj/Debug/net8.0/Dice.AssemblyInfo.cs
+/home/sutanev/Documents/Code/progintro-exercises/Lectures/05_Control_Flow/Dice/obj/Debug/net8.0/Dice.csproj.CoreCompileInputs.cache
+/home/sutanev/Documents/Code/progintro-exercises/Lectures/05_Control_Flow/Dice/obj/Debug/net8.0/Dice.sourcelink.json
+/home/sutanev/Documents/Code/progintro-exercises/Lectures/05_Control_Flow/Dice/obj/Debug/net8.0/Dice.dll
+/home/sutanev/Documents/Code/progintro-exercises/Lectures/05_Control_Flow/Dice/obj/Debug/net8.0/refint/Dice.dll
+/home/sutanev/Documents/Code/progintro-exercises/Lectures/05_Control_Flow/Dice/obj/Debug/net8.0/Dice.pdb
+/home/sutanev/Documents/Code/progintro-exercises/Lectures/05_Control_Flow/Dice/obj/Debug/net8.0/Dice.genruntimeconfig.cache
+/home/sutanev/Documents/Code/progintro-exercises/Lectures/05_Control_Flow/Dice/obj/Debug/net8.0/ref/Dice.dll

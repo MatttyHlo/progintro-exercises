@@ -1,0 +1,58 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Dice", "Dice\Dice.csproj", "{3954C342-914C-4845-85BA-D11A3DB88975}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Christmas_sale", "Christmas_sale\Christmas_sale.csproj", "{E15FF4A3-6F0B-460C-9A84-8049FEFA09F9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Holidays", "Holidays\Holidays.csproj", "{CF2DCFCC-B9C0-4656-B71D-594EAAB650F3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Celsius_conversion", "Celsius_conversion\Celsius_conversion.csproj", "{200A80EC-FC06-4FD1-85CE-D590D91A9317}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AreasOfCircles", "AreasOfCircles\AreasOfCircles.csproj", "{3DE20B71-4537-41BC-89BD-745884A34811}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LengthOfAMonth", "LengthOfAMonth\LengthOfAMonth.csproj", "{31C357BA-27EB-418E-BD36-DB8FC4B8620C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Primes", "Primes\Primes.csproj", "{8AA29D0C-3B47-43AE-9F98-102D151A69E4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3954C342-914C-4845-85BA-D11A3DB88975}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3954C342-914C-4845-85BA-D11A3DB88975}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3954C342-914C-4845-85BA-D11A3DB88975}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3954C342-914C-4845-85BA-D11A3DB88975}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E15FF4A3-6F0B-460C-9A84-8049FEFA09F9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E15FF4A3-6F0B-460C-9A84-8049FEFA09F9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E15FF4A3-6F0B-460C-9A84-8049FEFA09F9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E15FF4A3-6F0B-460C-9A84-8049FEFA09F9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CF2DCFCC-B9C0-4656-B71D-594EAAB650F3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CF2DCFCC-B9C0-4656-B71D-594EAAB650F3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CF2DCFCC-B9C0-4656-B71D-594EAAB650F3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CF2DCFCC-B9C0-4656-B71D-594EAAB650F3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{200A80EC-FC06-4FD1-85CE-D590D91A9317}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{200A80EC-FC06-4FD1-85CE-D590D91A9317}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{200A80EC-FC06-4FD1-85CE-D590D91A9317}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{200A80EC-FC06-4FD1-85CE-D590D91A9317}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3DE20B71-4537-41BC-89BD-745884A34811}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3DE20B71-4537-41BC-89BD-745884A34811}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3DE20B71-4537-41BC-89BD-745884A34811}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3DE20B71-4537-41BC-89BD-745884A34811}.Release|Any CPU.Build.0 = Release|Any CPU
+		{31C357BA-27EB-418E-BD36-DB8FC4B8620C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{31C357BA-27EB-418E-BD36-DB8FC4B8620C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{31C357BA-27EB-418E-BD36-DB8FC4B8620C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{31C357BA-27EB-418E-BD36-DB8FC4B8620C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8AA29D0C-3B47-43AE-9F98-102D151A69E4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8AA29D0C-3B47-43AE-9F98-102D151A69E4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8AA29D0C-3B47-43AE-9F98-102D151A69E4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8AA29D0C-3B47-43AE-9F98-102D151A69E4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

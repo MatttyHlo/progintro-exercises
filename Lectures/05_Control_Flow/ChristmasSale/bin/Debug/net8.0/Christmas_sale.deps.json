@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Christmas_sale/1.0.0": {
+        "runtime": {
+          "Christmas_sale.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Christmas_sale/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
