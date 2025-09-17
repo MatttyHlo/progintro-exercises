@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/sutanev/Documents/Code/progintro-exercises/Lectures/05_Control_Flow/Celsius_conversion/Celsius_conversion.csproj",
-      "projectName": "Celsius_conversion",
-      "projectPath": "/home/sutanev/Documents/Code/progintro-exercises/Lectures/05_Control_Flow/Celsius_conversion/Celsius_conversion.csproj",
+      "projectUniqueName": "/home/sutanev/Documents/Code/progintro-exercises/Lectures/05_Control_Flow/CelsiusConversion/CelsiusConversion.csproj",
+      "projectName": "CelsiusConversion",
+      "projectPath": "/home/sutanev/Documents/Code/progintro-exercises/Lectures/05_Control_Flow/CelsiusConversion/CelsiusConversion.csproj",
       "packagesPath": "/home/sutanev/.nuget/packages/",
-      "outputPath": "/home/sutanev/Documents/Code/progintro-exercises/Lectures/05_Control_Flow/Celsius_conversion/obj/",
+      "outputPath": "/home/sutanev/Documents/Code/progintro-exercises/Lectures/05_Control_Flow/CelsiusConversion/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/home/sutanev/.nuget/NuGet/NuGet.Config"

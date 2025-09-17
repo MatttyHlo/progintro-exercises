@@ -6,15 +6,15 @@
   "compilationOptions": {},
   "targets": {
     ".NETCoreApp,Version=v8.0": {
-      "Celsius_conversion/1.0.0": {
+      "CelsiusConversion/1.0.0": {
         "runtime": {
-          "Celsius_conversion.dll": {}
+          "CelsiusConversion.dll": {}
         }
       }
     }
   },
   "libraries": {
-    "Celsius_conversion/1.0.0": {
+    "CelsiusConversion/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""
