@@ -1,0 +1,15 @@
+/home/sutanev/Documents/Code/progintro-exercises/Lectures/06_Data_Structures/Calendar/bin/Debug/net8.0/Calendar
+/home/sutanev/Documents/Code/progintro-exercises/Lectures/06_Data_Structures/Calendar/bin/Debug/net8.0/Calendar.deps.json
+/home/sutanev/Documents/Code/progintro-exercises/Lectures/06_Data_Structures/Calendar/bin/Debug/net8.0/Calendar.runtimeconfig.json
+/home/sutanev/Documents/Code/progintro-exercises/Lectures/06_Data_Structures/Calendar/bin/Debug/net8.0/Calendar.dll
+/home/sutanev/Documents/Code/progintro-exercises/Lectures/06_Data_Structures/Calendar/bin/Debug/net8.0/Calendar.pdb
+/home/sutanev/Documents/Code/progintro-exercises/Lectures/06_Data_Structures/Calendar/obj/Debug/net8.0/Calendar.GeneratedMSBuildEditorConfig.editorconfig
+/home/sutanev/Documents/Code/progintro-exercises/Lectures/06_Data_Structures/Calendar/obj/Debug/net8.0/Calendar.AssemblyInfoInputs.cache
+/home/sutanev/Documents/Code/progintro-exercises/Lectures/06_Data_Structures/Calendar/obj/Debug/net8.0/Calendar.AssemblyInfo.cs
+/home/sutanev/Documents/Code/progintro-exercises/Lectures/06_Data_Structures/Calendar/obj/Debug/net8.0/Calendar.csproj.CoreCompileInputs.cache
+/home/sutanev/Documents/Code/progintro-exercises/Lectures/06_Data_Structures/Calendar/obj/Debug/net8.0/Calendar.sourcelink.json
+/home/sutanev/Documents/Code/progintro-exercises/Lectures/06_Data_Structures/Calendar/obj/Debug/net8.0/Calendar.dll
+/home/sutanev/Documents/Code/progintro-exercises/Lectures/06_Data_Structures/Calendar/obj/Debug/net8.0/refint/Calendar.dll
+/home/sutanev/Documents/Code/progintro-exercises/Lectures/06_Data_Structures/Calendar/obj/Debug/net8.0/Calendar.pdb
+/home/sutanev/Documents/Code/progintro-exercises/Lectures/06_Data_Structures/Calendar/obj/Debug/net8.0/Calendar.genruntimeconfig.cache
+/home/sutanev/Documents/Code/progintro-exercises/Lectures/06_Data_Structures/Calendar/obj/Debug/net8.0/ref/Calendar.dll

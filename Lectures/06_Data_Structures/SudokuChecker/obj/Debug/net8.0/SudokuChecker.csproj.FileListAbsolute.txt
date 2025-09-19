@@ -1,0 +1,15 @@
+/home/sutanev/Documents/Code/progintro-exercises/Lectures/06_Data_Structures/SudokuChecker/bin/Debug/net8.0/SudokuChecker
+/home/sutanev/Documents/Code/progintro-exercises/Lectures/06_Data_Structures/SudokuChecker/bin/Debug/net8.0/SudokuChecker.deps.json
+/home/sutanev/Documents/Code/progintro-exercises/Lectures/06_Data_Structures/SudokuChecker/bin/Debug/net8.0/SudokuChecker.runtimeconfig.json
+/home/sutanev/Documents/Code/progintro-exercises/Lectures/06_Data_Structures/SudokuChecker/bin/Debug/net8.0/SudokuChecker.dll
+/home/sutanev/Documents/Code/progintro-exercises/Lectures/06_Data_Structures/SudokuChecker/bin/Debug/net8.0/SudokuChecker.pdb
+/home/sutanev/Documents/Code/progintro-exercises/Lectures/06_Data_Structures/SudokuChecker/obj/Debug/net8.0/SudokuChecker.GeneratedMSBuildEditorConfig.editorconfig
+/home/sutanev/Documents/Code/progintro-exercises/Lectures/06_Data_Structures/SudokuChecker/obj/Debug/net8.0/SudokuChecker.AssemblyInfoInputs.cache
+/home/sutanev/Documents/Code/progintro-exercises/Lectures/06_Data_Structures/SudokuChecker/obj/Debug/net8.0/SudokuChecker.AssemblyInfo.cs
+/home/sutanev/Documents/Code/progintro-exercises/Lectures/06_Data_Structures/SudokuChecker/obj/Debug/net8.0/SudokuChecker.csproj.CoreCompileInputs.cache
+/home/sutanev/Documents/Code/progintro-exercises/Lectures/06_Data_Structures/SudokuChecker/obj/Debug/net8.0/SudokuChecker.sourcelink.json
+/home/sutanev/Documents/Code/progintro-exercises/Lectures/06_Data_Structures/SudokuChecker/obj/Debug/net8.0/SudokuChecker.dll
+/home/sutanev/Documents/Code/progintro-exercises/Lectures/06_Data_Structures/SudokuChecker/obj/Debug/net8.0/refint/SudokuChecker.dll
+/home/sutanev/Documents/Code/progintro-exercises/Lectures/06_Data_Structures/SudokuChecker/obj/Debug/net8.0/SudokuChecker.pdb
+/home/sutanev/Documents/Code/progintro-exercises/Lectures/06_Data_Structures/SudokuChecker/obj/Debug/net8.0/SudokuChecker.genruntimeconfig.cache
+/home/sutanev/Documents/Code/progintro-exercises/Lectures/06_Data_Structures/SudokuChecker/obj/Debug/net8.0/ref/SudokuChecker.dll

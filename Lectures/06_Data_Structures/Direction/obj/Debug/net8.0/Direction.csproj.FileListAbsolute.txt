@@ -1,0 +1,15 @@
+/home/sutanev/Documents/Code/progintro-exercises/Lectures/06_Data_Structures/Direction/bin/Debug/net8.0/Direction
+/home/sutanev/Documents/Code/progintro-exercises/Lectures/06_Data_Structures/Direction/bin/Debug/net8.0/Direction.deps.json
+/home/sutanev/Documents/Code/progintro-exercises/Lectures/06_Data_Structures/Direction/bin/Debug/net8.0/Direction.runtimeconfig.json
+/home/sutanev/Documents/Code/progintro-exercises/Lectures/06_Data_Structures/Direction/bin/Debug/net8.0/Direction.dll
+/home/sutanev/Documents/Code/progintro-exercises/Lectures/06_Data_Structures/Direction/bin/Debug/net8.0/Direction.pdb
+/home/sutanev/Documents/Code/progintro-exercises/Lectures/06_Data_Structures/Direction/obj/Debug/net8.0/Direction.GeneratedMSBuildEditorConfig.editorconfig
+/home/sutanev/Documents/Code/progintro-exercises/Lectures/06_Data_Structures/Direction/obj/Debug/net8.0/Direction.AssemblyInfoInputs.cache
+/home/sutanev/Documents/Code/progintro-exercises/Lectures/06_Data_Structures/Direction/obj/Debug/net8.0/Direction.AssemblyInfo.cs
+/home/sutanev/Documents/Code/progintro-exercises/Lectures/06_Data_Structures/Direction/obj/Debug/net8.0/Direction.csproj.CoreCompileInputs.cache
+/home/sutanev/Documents/Code/progintro-exercises/Lectures/06_Data_Structures/Direction/obj/Debug/net8.0/Direction.sourcelink.json
+/home/sutanev/Documents/Code/progintro-exercises/Lectures/06_Data_Structures/Direction/obj/Debug/net8.0/Direction.dll
+/home/sutanev/Documents/Code/progintro-exercises/Lectures/06_Data_Structures/Direction/obj/Debug/net8.0/refint/Direction.dll
+/home/sutanev/Documents/Code/progintro-exercises/Lectures/06_Data_Structures/Direction/obj/Debug/net8.0/Direction.pdb
+/home/sutanev/Documents/Code/progintro-exercises/Lectures/06_Data_Structures/Direction/obj/Debug/net8.0/Direction.genruntimeconfig.cache
+/home/sutanev/Documents/Code/progintro-exercises/Lectures/06_Data_Structures/Direction/obj/Debug/net8.0/ref/Direction.dll

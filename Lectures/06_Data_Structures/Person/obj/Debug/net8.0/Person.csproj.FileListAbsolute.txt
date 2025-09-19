@@ -1,0 +1,15 @@
+/home/sutanev/Documents/Code/progintro-exercises/Lectures/06_Data_Structures/Person/bin/Debug/net8.0/Person
+/home/sutanev/Documents/Code/progintro-exercises/Lectures/06_Data_Structures/Person/bin/Debug/net8.0/Person.deps.json
+/home/sutanev/Documents/Code/progintro-exercises/Lectures/06_Data_Structures/Person/bin/Debug/net8.0/Person.runtimeconfig.json
+/home/sutanev/Documents/Code/progintro-exercises/Lectures/06_Data_Structures/Person/bin/Debug/net8.0/Person.dll
+/home/sutanev/Documents/Code/progintro-exercises/Lectures/06_Data_Structures/Person/bin/Debug/net8.0/Person.pdb
+/home/sutanev/Documents/Code/progintro-exercises/Lectures/06_Data_Structures/Person/obj/Debug/net8.0/Person.GeneratedMSBuildEditorConfig.editorconfig
+/home/sutanev/Documents/Code/progintro-exercises/Lectures/06_Data_Structures/Person/obj/Debug/net8.0/Person.AssemblyInfoInputs.cache
+/home/sutanev/Documents/Code/progintro-exercises/Lectures/06_Data_Structures/Person/obj/Debug/net8.0/Person.AssemblyInfo.cs
+/home/sutanev/Documents/Code/progintro-exercises/Lectures/06_Data_Structures/Person/obj/Debug/net8.0/Person.csproj.CoreCompileInputs.cache
+/home/sutanev/Documents/Code/progintro-exercises/Lectures/06_Data_Structures/Person/obj/Debug/net8.0/Person.sourcelink.json
+/home/sutanev/Documents/Code/progintro-exercises/Lectures/06_Data_Structures/Person/obj/Debug/net8.0/Person.dll
+/home/sutanev/Documents/Code/progintro-exercises/Lectures/06_Data_Structures/Person/obj/Debug/net8.0/refint/Person.dll
+/home/sutanev/Documents/Code/progintro-exercises/Lectures/06_Data_Structures/Person/obj/Debug/net8.0/Person.pdb
+/home/sutanev/Documents/Code/progintro-exercises/Lectures/06_Data_Structures/Person/obj/Debug/net8.0/Person.genruntimeconfig.cache
+/home/sutanev/Documents/Code/progintro-exercises/Lectures/06_Data_Structures/Person/obj/Debug/net8.0/ref/Person.dll

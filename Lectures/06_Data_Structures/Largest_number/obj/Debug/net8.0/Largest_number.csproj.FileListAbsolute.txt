@@ -1,0 +1,15 @@
+/home/sutanev/Documents/Code/progintro-exercises/Lectures/06_Data_Structures/Largest_number/bin/Debug/net8.0/Largest_number
+/home/sutanev/Documents/Code/progintro-exercises/Lectures/06_Data_Structures/Largest_number/bin/Debug/net8.0/Largest_number.deps.json
+/home/sutanev/Documents/Code/progintro-exercises/Lectures/06_Data_Structures/Largest_number/bin/Debug/net8.0/Largest_number.runtimeconfig.json
+/home/sutanev/Documents/Code/progintro-exercises/Lectures/06_Data_Structures/Largest_number/bin/Debug/net8.0/Largest_number.dll
+/home/sutanev/Documents/Code/progintro-exercises/Lectures/06_Data_Structures/Largest_number/bin/Debug/net8.0/Largest_number.pdb
+/home/sutanev/Documents/Code/progintro-exercises/Lectures/06_Data_Structures/Largest_number/obj/Debug/net8.0/Largest_number.GeneratedMSBuildEditorConfig.editorconfig
+/home/sutanev/Documents/Code/progintro-exercises/Lectures/06_Data_Structures/Largest_number/obj/Debug/net8.0/Largest_number.AssemblyInfoInputs.cache
+/home/sutanev/Documents/Code/progintro-exercises/Lectures/06_Data_Structures/Largest_number/obj/Debug/net8.0/Largest_number.AssemblyInfo.cs
+/home/sutanev/Documents/Code/progintro-exercises/Lectures/06_Data_Structures/Largest_number/obj/Debug/net8.0/Largest_number.csproj.CoreCompileInputs.cache
+/home/sutanev/Documents/Code/progintro-exercises/Lectures/06_Data_Structures/Largest_number/obj/Debug/net8.0/Largest_number.sourcelink.json
+/home/sutanev/Documents/Code/progintro-exercises/Lectures/06_Data_Structures/Largest_number/obj/Debug/net8.0/Largest_number.dll
+/home/sutanev/Documents/Code/progintro-exercises/Lectures/06_Data_Structures/Largest_number/obj/Debug/net8.0/refint/Largest_number.dll
+/home/sutanev/Documents/Code/progintro-exercises/Lectures/06_Data_Structures/Largest_number/obj/Debug/net8.0/Largest_number.pdb
+/home/sutanev/Documents/Code/progintro-exercises/Lectures/06_Data_Structures/Largest_number/obj/Debug/net8.0/Largest_number.genruntimeconfig.cache
+/home/sutanev/Documents/Code/progintro-exercises/Lectures/06_Data_Structures/Largest_number/obj/Debug/net8.0/ref/Largest_number.dll
