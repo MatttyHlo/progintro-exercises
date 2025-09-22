@@ -1,0 +1,15 @@
+/home/sutanev/Documents/Code/progintro-exercises/Lectures/06_Data_Structures/AreasOfCircles/bin/Debug/net8.0/AreasOfCircles
+/home/sutanev/Documents/Code/progintro-exercises/Lectures/06_Data_Structures/AreasOfCircles/bin/Debug/net8.0/AreasOfCircles.deps.json
+/home/sutanev/Documents/Code/progintro-exercises/Lectures/06_Data_Structures/AreasOfCircles/bin/Debug/net8.0/AreasOfCircles.runtimeconfig.json
+/home/sutanev/Documents/Code/progintro-exercises/Lectures/06_Data_Structures/AreasOfCircles/bin/Debug/net8.0/AreasOfCircles.dll
+/home/sutanev/Documents/Code/progintro-exercises/Lectures/06_Data_Structures/AreasOfCircles/bin/Debug/net8.0/AreasOfCircles.pdb
+/home/sutanev/Documents/Code/progintro-exercises/Lectures/06_Data_Structures/AreasOfCircles/obj/Debug/net8.0/AreasOfCircles.GeneratedMSBuildEditorConfig.editorconfig
+/home/sutanev/Documents/Code/progintro-exercises/Lectures/06_Data_Structures/AreasOfCircles/obj/Debug/net8.0/AreasOfCircles.AssemblyInfoInputs.cache
+/home/sutanev/Documents/Code/progintro-exercises/Lectures/06_Data_Structures/AreasOfCircles/obj/Debug/net8.0/AreasOfCircles.AssemblyInfo.cs
+/home/sutanev/Documents/Code/progintro-exercises/Lectures/06_Data_Structures/AreasOfCircles/obj/Debug/net8.0/AreasOfCircles.csproj.CoreCompileInputs.cache
+/home/sutanev/Documents/Code/progintro-exercises/Lectures/06_Data_Structures/AreasOfCircles/obj/Debug/net8.0/AreasOfCircles.sourcelink.json
+/home/sutanev/Documents/Code/progintro-exercises/Lectures/06_Data_Structures/AreasOfCircles/obj/Debug/net8.0/AreasOfCircles.dll
+/home/sutanev/Documents/Code/progintro-exercises/Lectures/06_Data_Structures/AreasOfCircles/obj/Debug/net8.0/refint/AreasOfCircles.dll
+/home/sutanev/Documents/Code/progintro-exercises/Lectures/06_Data_Structures/AreasOfCircles/obj/Debug/net8.0/AreasOfCircles.pdb
+/home/sutanev/Documents/Code/progintro-exercises/Lectures/06_Data_Structures/AreasOfCircles/obj/Debug/net8.0/AreasOfCircles.genruntimeconfig.cache
+/home/sutanev/Documents/Code/progintro-exercises/Lectures/06_Data_Structures/AreasOfCircles/obj/Debug/net8.0/ref/AreasOfCircles.dll

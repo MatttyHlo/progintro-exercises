@@ -13,6 +13,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Direction", "Direction\Dire
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SudokuChecker", "SudokuChecker\SudokuChecker.csproj", "{82B1EE5B-AF60-4AB4-8D18-4A0124319EE2}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AreasOfCircles", "AreasOfCircles\AreasOfCircles.csproj", "{AC9C43A0-EA50-4770-AD87-80F85E7163C0}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -42,5 +44,9 @@ Global
 		{82B1EE5B-AF60-4AB4-8D18-4A0124319EE2}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{82B1EE5B-AF60-4AB4-8D18-4A0124319EE2}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{82B1EE5B-AF60-4AB4-8D18-4A0124319EE2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AC9C43A0-EA50-4770-AD87-80F85E7163C0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AC9C43A0-EA50-4770-AD87-80F85E7163C0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AC9C43A0-EA50-4770-AD87-80F85E7163C0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AC9C43A0-EA50-4770-AD87-80F85E7163C0}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
