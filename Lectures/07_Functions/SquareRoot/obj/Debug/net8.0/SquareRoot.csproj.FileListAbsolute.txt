@@ -1,0 +1,15 @@
+/home/sutanev/Documents/Code/progintro-exercises/Lectures/07_Functions/SquareRoot/obj/Debug/net8.0/SquareRoot.GeneratedMSBuildEditorConfig.editorconfig
+/home/sutanev/Documents/Code/progintro-exercises/Lectures/07_Functions/SquareRoot/obj/Debug/net8.0/SquareRoot.AssemblyInfoInputs.cache
+/home/sutanev/Documents/Code/progintro-exercises/Lectures/07_Functions/SquareRoot/obj/Debug/net8.0/SquareRoot.AssemblyInfo.cs
+/home/sutanev/Documents/Code/progintro-exercises/Lectures/07_Functions/SquareRoot/obj/Debug/net8.0/SquareRoot.csproj.CoreCompileInputs.cache
+/home/sutanev/Documents/Code/progintro-exercises/Lectures/07_Functions/SquareRoot/obj/Debug/net8.0/SquareRoot.sourcelink.json
+/home/sutanev/Documents/Code/progintro-exercises/Lectures/07_Functions/SquareRoot/bin/Debug/net8.0/SquareRoot
+/home/sutanev/Documents/Code/progintro-exercises/Lectures/07_Functions/SquareRoot/bin/Debug/net8.0/SquareRoot.deps.json
+/home/sutanev/Documents/Code/progintro-exercises/Lectures/07_Functions/SquareRoot/bin/Debug/net8.0/SquareRoot.runtimeconfig.json
+/home/sutanev/Documents/Code/progintro-exercises/Lectures/07_Functions/SquareRoot/bin/Debug/net8.0/SquareRoot.dll
+/home/sutanev/Documents/Code/progintro-exercises/Lectures/07_Functions/SquareRoot/bin/Debug/net8.0/SquareRoot.pdb
+/home/sutanev/Documents/Code/progintro-exercises/Lectures/07_Functions/SquareRoot/obj/Debug/net8.0/SquareRoot.dll
+/home/sutanev/Documents/Code/progintro-exercises/Lectures/07_Functions/SquareRoot/obj/Debug/net8.0/refint/SquareRoot.dll
+/home/sutanev/Documents/Code/progintro-exercises/Lectures/07_Functions/SquareRoot/obj/Debug/net8.0/SquareRoot.pdb
+/home/sutanev/Documents/Code/progintro-exercises/Lectures/07_Functions/SquareRoot/obj/Debug/net8.0/SquareRoot.genruntimeconfig.cache
+/home/sutanev/Documents/Code/progintro-exercises/Lectures/07_Functions/SquareRoot/obj/Debug/net8.0/ref/SquareRoot.dll

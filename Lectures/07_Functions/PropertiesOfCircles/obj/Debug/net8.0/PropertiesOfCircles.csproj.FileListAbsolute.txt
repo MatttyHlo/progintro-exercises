@@ -1,0 +1,15 @@
+/home/sutanev/Documents/Code/progintro-exercises/Lectures/07_Functions/PropertiesOfCircles/obj/Debug/net8.0/PropertiesOfCircles.GeneratedMSBuildEditorConfig.editorconfig
+/home/sutanev/Documents/Code/progintro-exercises/Lectures/07_Functions/PropertiesOfCircles/obj/Debug/net8.0/PropertiesOfCircles.AssemblyInfoInputs.cache
+/home/sutanev/Documents/Code/progintro-exercises/Lectures/07_Functions/PropertiesOfCircles/obj/Debug/net8.0/PropertiesOfCircles.AssemblyInfo.cs
+/home/sutanev/Documents/Code/progintro-exercises/Lectures/07_Functions/PropertiesOfCircles/obj/Debug/net8.0/PropertiesOfCircles.csproj.CoreCompileInputs.cache
+/home/sutanev/Documents/Code/progintro-exercises/Lectures/07_Functions/PropertiesOfCircles/obj/Debug/net8.0/PropertiesOfCircles.sourcelink.json
+/home/sutanev/Documents/Code/progintro-exercises/Lectures/07_Functions/PropertiesOfCircles/bin/Debug/net8.0/PropertiesOfCircles
+/home/sutanev/Documents/Code/progintro-exercises/Lectures/07_Functions/PropertiesOfCircles/bin/Debug/net8.0/PropertiesOfCircles.deps.json
+/home/sutanev/Documents/Code/progintro-exercises/Lectures/07_Functions/PropertiesOfCircles/bin/Debug/net8.0/PropertiesOfCircles.runtimeconfig.json
+/home/sutanev/Documents/Code/progintro-exercises/Lectures/07_Functions/PropertiesOfCircles/bin/Debug/net8.0/PropertiesOfCircles.dll
+/home/sutanev/Documents/Code/progintro-exercises/Lectures/07_Functions/PropertiesOfCircles/bin/Debug/net8.0/PropertiesOfCircles.pdb
+/home/sutanev/Documents/Code/progintro-exercises/Lectures/07_Functions/PropertiesOfCircles/obj/Debug/net8.0/PropertiesOfCircles.dll
+/home/sutanev/Documents/Code/progintro-exercises/Lectures/07_Functions/PropertiesOfCircles/obj/Debug/net8.0/refint/PropertiesOfCircles.dll
+/home/sutanev/Documents/Code/progintro-exercises/Lectures/07_Functions/PropertiesOfCircles/obj/Debug/net8.0/PropertiesOfCircles.pdb
+/home/sutanev/Documents/Code/progintro-exercises/Lectures/07_Functions/PropertiesOfCircles/obj/Debug/net8.0/PropertiesOfCircles.genruntimeconfig.cache
+/home/sutanev/Documents/Code/progintro-exercises/Lectures/07_Functions/PropertiesOfCircles/obj/Debug/net8.0/ref/PropertiesOfCircles.dll

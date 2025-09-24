@@ -1,0 +1,15 @@
+/home/sutanev/Documents/Code/progintro-exercises/Lectures/07_Functions/Sum/bin/Debug/net8.0/Sum
+/home/sutanev/Documents/Code/progintro-exercises/Lectures/07_Functions/Sum/bin/Debug/net8.0/Sum.deps.json
+/home/sutanev/Documents/Code/progintro-exercises/Lectures/07_Functions/Sum/bin/Debug/net8.0/Sum.runtimeconfig.json
+/home/sutanev/Documents/Code/progintro-exercises/Lectures/07_Functions/Sum/bin/Debug/net8.0/Sum.dll
+/home/sutanev/Documents/Code/progintro-exercises/Lectures/07_Functions/Sum/bin/Debug/net8.0/Sum.pdb
+/home/sutanev/Documents/Code/progintro-exercises/Lectures/07_Functions/Sum/obj/Debug/net8.0/Sum.GeneratedMSBuildEditorConfig.editorconfig
+/home/sutanev/Documents/Code/progintro-exercises/Lectures/07_Functions/Sum/obj/Debug/net8.0/Sum.AssemblyInfoInputs.cache
+/home/sutanev/Documents/Code/progintro-exercises/Lectures/07_Functions/Sum/obj/Debug/net8.0/Sum.AssemblyInfo.cs
+/home/sutanev/Documents/Code/progintro-exercises/Lectures/07_Functions/Sum/obj/Debug/net8.0/Sum.csproj.CoreCompileInputs.cache
+/home/sutanev/Documents/Code/progintro-exercises/Lectures/07_Functions/Sum/obj/Debug/net8.0/Sum.sourcelink.json
+/home/sutanev/Documents/Code/progintro-exercises/Lectures/07_Functions/Sum/obj/Debug/net8.0/Sum.dll
+/home/sutanev/Documents/Code/progintro-exercises/Lectures/07_Functions/Sum/obj/Debug/net8.0/refint/Sum.dll
+/home/sutanev/Documents/Code/progintro-exercises/Lectures/07_Functions/Sum/obj/Debug/net8.0/Sum.pdb
+/home/sutanev/Documents/Code/progintro-exercises/Lectures/07_Functions/Sum/obj/Debug/net8.0/Sum.genruntimeconfig.cache
+/home/sutanev/Documents/Code/progintro-exercises/Lectures/07_Functions/Sum/obj/Debug/net8.0/ref/Sum.dll

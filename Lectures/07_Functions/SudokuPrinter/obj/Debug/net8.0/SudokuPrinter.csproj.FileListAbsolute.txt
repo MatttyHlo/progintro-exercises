@@ -1,0 +1,15 @@
+/home/sutanev/Documents/Code/progintro-exercises/Lectures/07_Functions/SudokuPrinter/bin/Debug/net8.0/SudokuPrinter
+/home/sutanev/Documents/Code/progintro-exercises/Lectures/07_Functions/SudokuPrinter/bin/Debug/net8.0/SudokuPrinter.deps.json
+/home/sutanev/Documents/Code/progintro-exercises/Lectures/07_Functions/SudokuPrinter/bin/Debug/net8.0/SudokuPrinter.runtimeconfig.json
+/home/sutanev/Documents/Code/progintro-exercises/Lectures/07_Functions/SudokuPrinter/bin/Debug/net8.0/SudokuPrinter.dll
+/home/sutanev/Documents/Code/progintro-exercises/Lectures/07_Functions/SudokuPrinter/bin/Debug/net8.0/SudokuPrinter.pdb
+/home/sutanev/Documents/Code/progintro-exercises/Lectures/07_Functions/SudokuPrinter/obj/Debug/net8.0/SudokuPrinter.GeneratedMSBuildEditorConfig.editorconfig
+/home/sutanev/Documents/Code/progintro-exercises/Lectures/07_Functions/SudokuPrinter/obj/Debug/net8.0/SudokuPrinter.AssemblyInfoInputs.cache
+/home/sutanev/Documents/Code/progintro-exercises/Lectures/07_Functions/SudokuPrinter/obj/Debug/net8.0/SudokuPrinter.AssemblyInfo.cs
+/home/sutanev/Documents/Code/progintro-exercises/Lectures/07_Functions/SudokuPrinter/obj/Debug/net8.0/SudokuPrinter.csproj.CoreCompileInputs.cache
+/home/sutanev/Documents/Code/progintro-exercises/Lectures/07_Functions/SudokuPrinter/obj/Debug/net8.0/SudokuPrinter.sourcelink.json
+/home/sutanev/Documents/Code/progintro-exercises/Lectures/07_Functions/SudokuPrinter/obj/Debug/net8.0/SudokuPrinter.dll
+/home/sutanev/Documents/Code/progintro-exercises/Lectures/07_Functions/SudokuPrinter/obj/Debug/net8.0/refint/SudokuPrinter.dll
+/home/sutanev/Documents/Code/progintro-exercises/Lectures/07_Functions/SudokuPrinter/obj/Debug/net8.0/SudokuPrinter.pdb
+/home/sutanev/Documents/Code/progintro-exercises/Lectures/07_Functions/SudokuPrinter/obj/Debug/net8.0/SudokuPrinter.genruntimeconfig.cache
+/home/sutanev/Documents/Code/progintro-exercises/Lectures/07_Functions/SudokuPrinter/obj/Debug/net8.0/ref/SudokuPrinter.dll

@@ -1,0 +1,15 @@
+/home/sutanev/Documents/Code/progintro-exercises/Lectures/07_Functions/Factorial/bin/Debug/net8.0/Factorial
+/home/sutanev/Documents/Code/progintro-exercises/Lectures/07_Functions/Factorial/bin/Debug/net8.0/Factorial.deps.json
+/home/sutanev/Documents/Code/progintro-exercises/Lectures/07_Functions/Factorial/bin/Debug/net8.0/Factorial.runtimeconfig.json
+/home/sutanev/Documents/Code/progintro-exercises/Lectures/07_Functions/Factorial/bin/Debug/net8.0/Factorial.dll
+/home/sutanev/Documents/Code/progintro-exercises/Lectures/07_Functions/Factorial/bin/Debug/net8.0/Factorial.pdb
+/home/sutanev/Documents/Code/progintro-exercises/Lectures/07_Functions/Factorial/obj/Debug/net8.0/Factorial.GeneratedMSBuildEditorConfig.editorconfig
+/home/sutanev/Documents/Code/progintro-exercises/Lectures/07_Functions/Factorial/obj/Debug/net8.0/Factorial.AssemblyInfoInputs.cache
+/home/sutanev/Documents/Code/progintro-exercises/Lectures/07_Functions/Factorial/obj/Debug/net8.0/Factorial.AssemblyInfo.cs
+/home/sutanev/Documents/Code/progintro-exercises/Lectures/07_Functions/Factorial/obj/Debug/net8.0/Factorial.csproj.CoreCompileInputs.cache
+/home/sutanev/Documents/Code/progintro-exercises/Lectures/07_Functions/Factorial/obj/Debug/net8.0/Factorial.sourcelink.json
+/home/sutanev/Documents/Code/progintro-exercises/Lectures/07_Functions/Factorial/obj/Debug/net8.0/Factorial.dll
+/home/sutanev/Documents/Code/progintro-exercises/Lectures/07_Functions/Factorial/obj/Debug/net8.0/refint/Factorial.dll
+/home/sutanev/Documents/Code/progintro-exercises/Lectures/07_Functions/Factorial/obj/Debug/net8.0/Factorial.pdb
+/home/sutanev/Documents/Code/progintro-exercises/Lectures/07_Functions/Factorial/obj/Debug/net8.0/Factorial.genruntimeconfig.cache
+/home/sutanev/Documents/Code/progintro-exercises/Lectures/07_Functions/Factorial/obj/Debug/net8.0/ref/Factorial.dll

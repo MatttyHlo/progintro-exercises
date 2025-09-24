@@ -1,0 +1,15 @@
+/home/sutanev/Documents/Code/progintro-exercises/Lectures/07_Functions/DailyDifferences/bin/Debug/net8.0/DaiyDifferences
+/home/sutanev/Documents/Code/progintro-exercises/Lectures/07_Functions/DailyDifferences/bin/Debug/net8.0/DaiyDifferences.deps.json
+/home/sutanev/Documents/Code/progintro-exercises/Lectures/07_Functions/DailyDifferences/bin/Debug/net8.0/DaiyDifferences.runtimeconfig.json
+/home/sutanev/Documents/Code/progintro-exercises/Lectures/07_Functions/DailyDifferences/bin/Debug/net8.0/DaiyDifferences.dll
+/home/sutanev/Documents/Code/progintro-exercises/Lectures/07_Functions/DailyDifferences/bin/Debug/net8.0/DaiyDifferences.pdb
+/home/sutanev/Documents/Code/progintro-exercises/Lectures/07_Functions/DailyDifferences/obj/Debug/net8.0/DaiyDifferences.GeneratedMSBuildEditorConfig.editorconfig
+/home/sutanev/Documents/Code/progintro-exercises/Lectures/07_Functions/DailyDifferences/obj/Debug/net8.0/DaiyDifferences.AssemblyInfoInputs.cache
+/home/sutanev/Documents/Code/progintro-exercises/Lectures/07_Functions/DailyDifferences/obj/Debug/net8.0/DaiyDifferences.AssemblyInfo.cs
+/home/sutanev/Documents/Code/progintro-exercises/Lectures/07_Functions/DailyDifferences/obj/Debug/net8.0/DaiyDifferences.csproj.CoreCompileInputs.cache
+/home/sutanev/Documents/Code/progintro-exercises/Lectures/07_Functions/DailyDifferences/obj/Debug/net8.0/DaiyDifferences.sourcelink.json
+/home/sutanev/Documents/Code/progintro-exercises/Lectures/07_Functions/DailyDifferences/obj/Debug/net8.0/DaiyDifferences.dll
+/home/sutanev/Documents/Code/progintro-exercises/Lectures/07_Functions/DailyDifferences/obj/Debug/net8.0/refint/DaiyDifferences.dll
+/home/sutanev/Documents/Code/progintro-exercises/Lectures/07_Functions/DailyDifferences/obj/Debug/net8.0/DaiyDifferences.pdb
+/home/sutanev/Documents/Code/progintro-exercises/Lectures/07_Functions/DailyDifferences/obj/Debug/net8.0/DaiyDifferences.genruntimeconfig.cache
+/home/sutanev/Documents/Code/progintro-exercises/Lectures/07_Functions/DailyDifferences/obj/Debug/net8.0/ref/DaiyDifferences.dll
