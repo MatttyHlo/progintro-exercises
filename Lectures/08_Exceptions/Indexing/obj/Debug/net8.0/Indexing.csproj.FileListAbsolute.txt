@@ -1,0 +1,15 @@
+/home/sutanev/Documents/Code/progintro-exercises/Lectures/08_Exceptions/Indexing/bin/Debug/net8.0/Indexing
+/home/sutanev/Documents/Code/progintro-exercises/Lectures/08_Exceptions/Indexing/bin/Debug/net8.0/Indexing.deps.json
+/home/sutanev/Documents/Code/progintro-exercises/Lectures/08_Exceptions/Indexing/bin/Debug/net8.0/Indexing.runtimeconfig.json
+/home/sutanev/Documents/Code/progintro-exercises/Lectures/08_Exceptions/Indexing/bin/Debug/net8.0/Indexing.dll
+/home/sutanev/Documents/Code/progintro-exercises/Lectures/08_Exceptions/Indexing/bin/Debug/net8.0/Indexing.pdb
+/home/sutanev/Documents/Code/progintro-exercises/Lectures/08_Exceptions/Indexing/obj/Debug/net8.0/Indexing.GeneratedMSBuildEditorConfig.editorconfig
+/home/sutanev/Documents/Code/progintro-exercises/Lectures/08_Exceptions/Indexing/obj/Debug/net8.0/Indexing.AssemblyInfoInputs.cache
+/home/sutanev/Documents/Code/progintro-exercises/Lectures/08_Exceptions/Indexing/obj/Debug/net8.0/Indexing.AssemblyInfo.cs
+/home/sutanev/Documents/Code/progintro-exercises/Lectures/08_Exceptions/Indexing/obj/Debug/net8.0/Indexing.csproj.CoreCompileInputs.cache
+/home/sutanev/Documents/Code/progintro-exercises/Lectures/08_Exceptions/Indexing/obj/Debug/net8.0/Indexing.sourcelink.json
+/home/sutanev/Documents/Code/progintro-exercises/Lectures/08_Exceptions/Indexing/obj/Debug/net8.0/Indexing.dll
+/home/sutanev/Documents/Code/progintro-exercises/Lectures/08_Exceptions/Indexing/obj/Debug/net8.0/refint/Indexing.dll
+/home/sutanev/Documents/Code/progintro-exercises/Lectures/08_Exceptions/Indexing/obj/Debug/net8.0/Indexing.pdb
+/home/sutanev/Documents/Code/progintro-exercises/Lectures/08_Exceptions/Indexing/obj/Debug/net8.0/Indexing.genruntimeconfig.cache
+/home/sutanev/Documents/Code/progintro-exercises/Lectures/08_Exceptions/Indexing/obj/Debug/net8.0/ref/Indexing.dll

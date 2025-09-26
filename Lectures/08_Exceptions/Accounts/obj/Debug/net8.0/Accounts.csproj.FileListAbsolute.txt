@@ -1,0 +1,15 @@
+/home/sutanev/Documents/Code/progintro-exercises/Lectures/08_Exceptions/Accounts/bin/Debug/net8.0/Accounts
+/home/sutanev/Documents/Code/progintro-exercises/Lectures/08_Exceptions/Accounts/bin/Debug/net8.0/Accounts.deps.json
+/home/sutanev/Documents/Code/progintro-exercises/Lectures/08_Exceptions/Accounts/bin/Debug/net8.0/Accounts.runtimeconfig.json
+/home/sutanev/Documents/Code/progintro-exercises/Lectures/08_Exceptions/Accounts/bin/Debug/net8.0/Accounts.dll
+/home/sutanev/Documents/Code/progintro-exercises/Lectures/08_Exceptions/Accounts/bin/Debug/net8.0/Accounts.pdb
+/home/sutanev/Documents/Code/progintro-exercises/Lectures/08_Exceptions/Accounts/obj/Debug/net8.0/Accounts.GeneratedMSBuildEditorConfig.editorconfig
+/home/sutanev/Documents/Code/progintro-exercises/Lectures/08_Exceptions/Accounts/obj/Debug/net8.0/Accounts.AssemblyInfoInputs.cache
+/home/sutanev/Documents/Code/progintro-exercises/Lectures/08_Exceptions/Accounts/obj/Debug/net8.0/Accounts.AssemblyInfo.cs
+/home/sutanev/Documents/Code/progintro-exercises/Lectures/08_Exceptions/Accounts/obj/Debug/net8.0/Accounts.csproj.CoreCompileInputs.cache
+/home/sutanev/Documents/Code/progintro-exercises/Lectures/08_Exceptions/Accounts/obj/Debug/net8.0/Accounts.sourcelink.json
+/home/sutanev/Documents/Code/progintro-exercises/Lectures/08_Exceptions/Accounts/obj/Debug/net8.0/Accounts.dll
+/home/sutanev/Documents/Code/progintro-exercises/Lectures/08_Exceptions/Accounts/obj/Debug/net8.0/refint/Accounts.dll
+/home/sutanev/Documents/Code/progintro-exercises/Lectures/08_Exceptions/Accounts/obj/Debug/net8.0/Accounts.pdb
+/home/sutanev/Documents/Code/progintro-exercises/Lectures/08_Exceptions/Accounts/obj/Debug/net8.0/Accounts.genruntimeconfig.cache
+/home/sutanev/Documents/Code/progintro-exercises/Lectures/08_Exceptions/Accounts/obj/Debug/net8.0/ref/Accounts.dll
