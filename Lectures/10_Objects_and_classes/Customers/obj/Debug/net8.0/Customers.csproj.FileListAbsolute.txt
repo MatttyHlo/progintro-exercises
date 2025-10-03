@@ -1,0 +1,15 @@
+/home/sutanev/Documents/Code/progintro-exercises/Lectures/10_Objects_and_classes/Customers/bin/Debug/net8.0/Customers
+/home/sutanev/Documents/Code/progintro-exercises/Lectures/10_Objects_and_classes/Customers/bin/Debug/net8.0/Customers.deps.json
+/home/sutanev/Documents/Code/progintro-exercises/Lectures/10_Objects_and_classes/Customers/bin/Debug/net8.0/Customers.runtimeconfig.json
+/home/sutanev/Documents/Code/progintro-exercises/Lectures/10_Objects_and_classes/Customers/bin/Debug/net8.0/Customers.dll
+/home/sutanev/Documents/Code/progintro-exercises/Lectures/10_Objects_and_classes/Customers/bin/Debug/net8.0/Customers.pdb
+/home/sutanev/Documents/Code/progintro-exercises/Lectures/10_Objects_and_classes/Customers/obj/Debug/net8.0/Customers.GeneratedMSBuildEditorConfig.editorconfig
+/home/sutanev/Documents/Code/progintro-exercises/Lectures/10_Objects_and_classes/Customers/obj/Debug/net8.0/Customers.AssemblyInfoInputs.cache
+/home/sutanev/Documents/Code/progintro-exercises/Lectures/10_Objects_and_classes/Customers/obj/Debug/net8.0/Customers.AssemblyInfo.cs
+/home/sutanev/Documents/Code/progintro-exercises/Lectures/10_Objects_and_classes/Customers/obj/Debug/net8.0/Customers.csproj.CoreCompileInputs.cache
+/home/sutanev/Documents/Code/progintro-exercises/Lectures/10_Objects_and_classes/Customers/obj/Debug/net8.0/Customers.sourcelink.json
+/home/sutanev/Documents/Code/progintro-exercises/Lectures/10_Objects_and_classes/Customers/obj/Debug/net8.0/Customers.dll
+/home/sutanev/Documents/Code/progintro-exercises/Lectures/10_Objects_and_classes/Customers/obj/Debug/net8.0/refint/Customers.dll
+/home/sutanev/Documents/Code/progintro-exercises/Lectures/10_Objects_and_classes/Customers/obj/Debug/net8.0/Customers.pdb
+/home/sutanev/Documents/Code/progintro-exercises/Lectures/10_Objects_and_classes/Customers/obj/Debug/net8.0/Customers.genruntimeconfig.cache
+/home/sutanev/Documents/Code/progintro-exercises/Lectures/10_Objects_and_classes/Customers/obj/Debug/net8.0/ref/Customers.dll
