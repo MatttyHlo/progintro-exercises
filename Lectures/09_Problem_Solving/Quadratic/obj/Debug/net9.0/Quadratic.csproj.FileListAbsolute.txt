@@ -1,0 +1,15 @@
+C:\Users\matou\Documents\Code\progintro-exercises\Lectures\09_Problem_Solving\Quadratic\bin\Debug\net9.0\Quadratic.exe
+C:\Users\matou\Documents\Code\progintro-exercises\Lectures\09_Problem_Solving\Quadratic\bin\Debug\net9.0\Quadratic.deps.json
+C:\Users\matou\Documents\Code\progintro-exercises\Lectures\09_Problem_Solving\Quadratic\bin\Debug\net9.0\Quadratic.runtimeconfig.json
+C:\Users\matou\Documents\Code\progintro-exercises\Lectures\09_Problem_Solving\Quadratic\bin\Debug\net9.0\Quadratic.dll
+C:\Users\matou\Documents\Code\progintro-exercises\Lectures\09_Problem_Solving\Quadratic\bin\Debug\net9.0\Quadratic.pdb
+C:\Users\matou\Documents\Code\progintro-exercises\Lectures\09_Problem_Solving\Quadratic\obj\Debug\net9.0\Quadratic.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\matou\Documents\Code\progintro-exercises\Lectures\09_Problem_Solving\Quadratic\obj\Debug\net9.0\Quadratic.AssemblyInfoInputs.cache
+C:\Users\matou\Documents\Code\progintro-exercises\Lectures\09_Problem_Solving\Quadratic\obj\Debug\net9.0\Quadratic.AssemblyInfo.cs
+C:\Users\matou\Documents\Code\progintro-exercises\Lectures\09_Problem_Solving\Quadratic\obj\Debug\net9.0\Quadratic.csproj.CoreCompileInputs.cache
+C:\Users\matou\Documents\Code\progintro-exercises\Lectures\09_Problem_Solving\Quadratic\obj\Debug\net9.0\Quadratic.sourcelink.json
+C:\Users\matou\Documents\Code\progintro-exercises\Lectures\09_Problem_Solving\Quadratic\obj\Debug\net9.0\Quadratic.dll
+C:\Users\matou\Documents\Code\progintro-exercises\Lectures\09_Problem_Solving\Quadratic\obj\Debug\net9.0\refint\Quadratic.dll
+C:\Users\matou\Documents\Code\progintro-exercises\Lectures\09_Problem_Solving\Quadratic\obj\Debug\net9.0\Quadratic.pdb
+C:\Users\matou\Documents\Code\progintro-exercises\Lectures\09_Problem_Solving\Quadratic\obj\Debug\net9.0\Quadratic.genruntimeconfig.cache
+C:\Users\matou\Documents\Code\progintro-exercises\Lectures\09_Problem_Solving\Quadratic\obj\Debug\net9.0\ref\Quadratic.dll
