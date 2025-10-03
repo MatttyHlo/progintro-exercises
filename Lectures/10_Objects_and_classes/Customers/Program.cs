@@ -12,20 +12,23 @@ class Program {
         Console.WriteLine(aCustomer.GetBalance());
 
         CustomerDatabase database = new CustomerDatabase();
-        
+
         database.AddCustomer(aCustomer);
-        Console.WriteLine(database.Customers[0].GetBalance());
 
         Customer jack = new Customer("Jack", 70, 421);
         database.AddCustomer(jack);
-        Console.WriteLine(database.Customers[1].GetBalance());
+
+        database.PrintCustomers();
+        database.RemoveCustomer(70);
+        Console.WriteLine("--------------------------------");
+        database.PrintCustomers();
     }
 }
 
 class Customer
 {
-    private string Name;
-    private int Id;
+    public string Name;
+    public int Id;
     private double Balance;
 
     public Customer(string name, int id)
@@ -59,7 +62,7 @@ class Customer
 
 class CustomerDatabase
 {
-    public Customer[] Customers;
+    private Customer[] Customers;
 
     public CustomerDatabase()
     {
@@ -74,6 +77,34 @@ class CustomerDatabase
             {
                 Customers[i] = customer;
                 break;
+            }
+        }
+    }
+
+    public void RemoveCustomer(int id)
+    {
+        for (int i = 0; i < 10; i++)
+        {
+            if (Customers[i] != null && Customers[i].Id == id)
+            {
+                Customers[i] = null;
+                break;
+            }
+        }
+    }
+
+    public Customer[] GetCustomers()
+    {
+        return Customers;
+    }
+
+    public void PrintCustomers()
+    {
+        foreach (Customer i in Customers)
+        {
+            if (i != null)
+            {
+                Console.WriteLine($"name: {i.Name}, id: {i.Id}, balance: {i.GetBalance()}");
             }
         }
     }
