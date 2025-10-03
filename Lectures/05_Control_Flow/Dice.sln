@@ -5,11 +5,11 @@ VisualStudioVersion = 17.0.31903.59
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Dice", "Dice\Dice.csproj", "{3954C342-914C-4845-85BA-D11A3DB88975}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Christmas_sale", "Christmas_sale\Christmas_sale.csproj", "{E15FF4A3-6F0B-460C-9A84-8049FEFA09F9}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ChristmasSale", "Christmas_sale\ChristmasSale.csproj", "{E15FF4A3-6F0B-460C-9A84-8049FEFA09F9}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Holidays", "Holidays\Holidays.csproj", "{CF2DCFCC-B9C0-4656-B71D-594EAAB650F3}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Celsius_conversion", "Celsius_conversion\Celsius_conversion.csproj", "{200A80EC-FC06-4FD1-85CE-D590D91A9317}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CelsiusConversion", "Celsius_conversion\CelsiusConversion.csproj", "{200A80EC-FC06-4FD1-85CE-D590D91A9317}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AreasOfCircles", "AreasOfCircles\AreasOfCircles.csproj", "{3DE20B71-4537-41BC-89BD-745884A34811}"
 EndProject
