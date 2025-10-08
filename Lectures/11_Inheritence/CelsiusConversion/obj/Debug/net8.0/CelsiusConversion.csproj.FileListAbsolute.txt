@@ -1,0 +1,15 @@
+/home/sutanev/Documents/Code/progintro-exercises/Lectures/11_Inheritence/CelsiusConversion/bin/Debug/net8.0/CelsiusConversion
+/home/sutanev/Documents/Code/progintro-exercises/Lectures/11_Inheritence/CelsiusConversion/bin/Debug/net8.0/CelsiusConversion.deps.json
+/home/sutanev/Documents/Code/progintro-exercises/Lectures/11_Inheritence/CelsiusConversion/bin/Debug/net8.0/CelsiusConversion.runtimeconfig.json
+/home/sutanev/Documents/Code/progintro-exercises/Lectures/11_Inheritence/CelsiusConversion/bin/Debug/net8.0/CelsiusConversion.dll
+/home/sutanev/Documents/Code/progintro-exercises/Lectures/11_Inheritence/CelsiusConversion/bin/Debug/net8.0/CelsiusConversion.pdb
+/home/sutanev/Documents/Code/progintro-exercises/Lectures/11_Inheritence/CelsiusConversion/obj/Debug/net8.0/CelsiusConversion.GeneratedMSBuildEditorConfig.editorconfig
+/home/sutanev/Documents/Code/progintro-exercises/Lectures/11_Inheritence/CelsiusConversion/obj/Debug/net8.0/CelsiusConversion.AssemblyInfoInputs.cache
+/home/sutanev/Documents/Code/progintro-exercises/Lectures/11_Inheritence/CelsiusConversion/obj/Debug/net8.0/CelsiusConversion.AssemblyInfo.cs
+/home/sutanev/Documents/Code/progintro-exercises/Lectures/11_Inheritence/CelsiusConversion/obj/Debug/net8.0/CelsiusConversion.csproj.CoreCompileInputs.cache
+/home/sutanev/Documents/Code/progintro-exercises/Lectures/11_Inheritence/CelsiusConversion/obj/Debug/net8.0/CelsiusConversion.sourcelink.json
+/home/sutanev/Documents/Code/progintro-exercises/Lectures/11_Inheritence/CelsiusConversion/obj/Debug/net8.0/CelsiusConversion.dll
+/home/sutanev/Documents/Code/progintro-exercises/Lectures/11_Inheritence/CelsiusConversion/obj/Debug/net8.0/refint/CelsiusConversion.dll
+/home/sutanev/Documents/Code/progintro-exercises/Lectures/11_Inheritence/CelsiusConversion/obj/Debug/net8.0/CelsiusConversion.pdb
+/home/sutanev/Documents/Code/progintro-exercises/Lectures/11_Inheritence/CelsiusConversion/obj/Debug/net8.0/CelsiusConversion.genruntimeconfig.cache
+/home/sutanev/Documents/Code/progintro-exercises/Lectures/11_Inheritence/CelsiusConversion/obj/Debug/net8.0/ref/CelsiusConversion.dll
