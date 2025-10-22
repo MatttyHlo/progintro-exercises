@@ -1,0 +1,15 @@
+/home/sutanev/Documents/Code/progintro-exercises/Lectures/13_Naming/Kittens/bin/Debug/net8.0/Kittens
+/home/sutanev/Documents/Code/progintro-exercises/Lectures/13_Naming/Kittens/bin/Debug/net8.0/Kittens.deps.json
+/home/sutanev/Documents/Code/progintro-exercises/Lectures/13_Naming/Kittens/bin/Debug/net8.0/Kittens.runtimeconfig.json
+/home/sutanev/Documents/Code/progintro-exercises/Lectures/13_Naming/Kittens/bin/Debug/net8.0/Kittens.dll
+/home/sutanev/Documents/Code/progintro-exercises/Lectures/13_Naming/Kittens/bin/Debug/net8.0/Kittens.pdb
+/home/sutanev/Documents/Code/progintro-exercises/Lectures/13_Naming/Kittens/obj/Debug/net8.0/Kittens.GeneratedMSBuildEditorConfig.editorconfig
+/home/sutanev/Documents/Code/progintro-exercises/Lectures/13_Naming/Kittens/obj/Debug/net8.0/Kittens.AssemblyInfoInputs.cache
+/home/sutanev/Documents/Code/progintro-exercises/Lectures/13_Naming/Kittens/obj/Debug/net8.0/Kittens.AssemblyInfo.cs
+/home/sutanev/Documents/Code/progintro-exercises/Lectures/13_Naming/Kittens/obj/Debug/net8.0/Kittens.csproj.CoreCompileInputs.cache
+/home/sutanev/Documents/Code/progintro-exercises/Lectures/13_Naming/Kittens/obj/Debug/net8.0/Kittens.sourcelink.json
+/home/sutanev/Documents/Code/progintro-exercises/Lectures/13_Naming/Kittens/obj/Debug/net8.0/Kittens.dll
+/home/sutanev/Documents/Code/progintro-exercises/Lectures/13_Naming/Kittens/obj/Debug/net8.0/refint/Kittens.dll
+/home/sutanev/Documents/Code/progintro-exercises/Lectures/13_Naming/Kittens/obj/Debug/net8.0/Kittens.pdb
+/home/sutanev/Documents/Code/progintro-exercises/Lectures/13_Naming/Kittens/obj/Debug/net8.0/Kittens.genruntimeconfig.cache
+/home/sutanev/Documents/Code/progintro-exercises/Lectures/13_Naming/Kittens/obj/Debug/net8.0/ref/Kittens.dll

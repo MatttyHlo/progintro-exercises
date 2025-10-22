@@ -1,0 +1,15 @@
+/home/sutanev/Documents/Code/progintro-exercises/Lectures/13_Naming/Date/bin/Debug/net8.0/Date
+/home/sutanev/Documents/Code/progintro-exercises/Lectures/13_Naming/Date/bin/Debug/net8.0/Date.deps.json
+/home/sutanev/Documents/Code/progintro-exercises/Lectures/13_Naming/Date/bin/Debug/net8.0/Date.runtimeconfig.json
+/home/sutanev/Documents/Code/progintro-exercises/Lectures/13_Naming/Date/bin/Debug/net8.0/Date.dll
+/home/sutanev/Documents/Code/progintro-exercises/Lectures/13_Naming/Date/bin/Debug/net8.0/Date.pdb
+/home/sutanev/Documents/Code/progintro-exercises/Lectures/13_Naming/Date/obj/Debug/net8.0/Date.GeneratedMSBuildEditorConfig.editorconfig
+/home/sutanev/Documents/Code/progintro-exercises/Lectures/13_Naming/Date/obj/Debug/net8.0/Date.AssemblyInfoInputs.cache
+/home/sutanev/Documents/Code/progintro-exercises/Lectures/13_Naming/Date/obj/Debug/net8.0/Date.AssemblyInfo.cs
+/home/sutanev/Documents/Code/progintro-exercises/Lectures/13_Naming/Date/obj/Debug/net8.0/Date.csproj.CoreCompileInputs.cache
+/home/sutanev/Documents/Code/progintro-exercises/Lectures/13_Naming/Date/obj/Debug/net8.0/Date.sourcelink.json
+/home/sutanev/Documents/Code/progintro-exercises/Lectures/13_Naming/Date/obj/Debug/net8.0/Date.dll
+/home/sutanev/Documents/Code/progintro-exercises/Lectures/13_Naming/Date/obj/Debug/net8.0/refint/Date.dll
+/home/sutanev/Documents/Code/progintro-exercises/Lectures/13_Naming/Date/obj/Debug/net8.0/Date.pdb
+/home/sutanev/Documents/Code/progintro-exercises/Lectures/13_Naming/Date/obj/Debug/net8.0/Date.genruntimeconfig.cache
+/home/sutanev/Documents/Code/progintro-exercises/Lectures/13_Naming/Date/obj/Debug/net8.0/ref/Date.dll

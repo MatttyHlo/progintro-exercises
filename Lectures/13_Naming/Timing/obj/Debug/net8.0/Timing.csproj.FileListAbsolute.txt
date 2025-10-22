@@ -1,0 +1,15 @@
+/home/sutanev/Documents/Code/progintro-exercises/Lectures/13_Naming/Timing/bin/Debug/net8.0/Timing
+/home/sutanev/Documents/Code/progintro-exercises/Lectures/13_Naming/Timing/bin/Debug/net8.0/Timing.deps.json
+/home/sutanev/Documents/Code/progintro-exercises/Lectures/13_Naming/Timing/bin/Debug/net8.0/Timing.runtimeconfig.json
+/home/sutanev/Documents/Code/progintro-exercises/Lectures/13_Naming/Timing/bin/Debug/net8.0/Timing.dll
+/home/sutanev/Documents/Code/progintro-exercises/Lectures/13_Naming/Timing/bin/Debug/net8.0/Timing.pdb
+/home/sutanev/Documents/Code/progintro-exercises/Lectures/13_Naming/Timing/obj/Debug/net8.0/Timing.GeneratedMSBuildEditorConfig.editorconfig
+/home/sutanev/Documents/Code/progintro-exercises/Lectures/13_Naming/Timing/obj/Debug/net8.0/Timing.AssemblyInfoInputs.cache
+/home/sutanev/Documents/Code/progintro-exercises/Lectures/13_Naming/Timing/obj/Debug/net8.0/Timing.AssemblyInfo.cs
+/home/sutanev/Documents/Code/progintro-exercises/Lectures/13_Naming/Timing/obj/Debug/net8.0/Timing.csproj.CoreCompileInputs.cache
+/home/sutanev/Documents/Code/progintro-exercises/Lectures/13_Naming/Timing/obj/Debug/net8.0/Timing.sourcelink.json
+/home/sutanev/Documents/Code/progintro-exercises/Lectures/13_Naming/Timing/obj/Debug/net8.0/Timing.dll
+/home/sutanev/Documents/Code/progintro-exercises/Lectures/13_Naming/Timing/obj/Debug/net8.0/refint/Timing.dll
+/home/sutanev/Documents/Code/progintro-exercises/Lectures/13_Naming/Timing/obj/Debug/net8.0/Timing.pdb
+/home/sutanev/Documents/Code/progintro-exercises/Lectures/13_Naming/Timing/obj/Debug/net8.0/Timing.genruntimeconfig.cache
+/home/sutanev/Documents/Code/progintro-exercises/Lectures/13_Naming/Timing/obj/Debug/net8.0/ref/Timing.dll
