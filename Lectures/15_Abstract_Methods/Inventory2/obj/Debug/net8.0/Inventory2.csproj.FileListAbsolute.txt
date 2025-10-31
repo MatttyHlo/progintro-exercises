@@ -1,0 +1,15 @@
+/home/sutanev/Documents/Code/progintro-exercises/Lectures/15_Abstract_Methods/Inventory2/bin/Debug/net8.0/Inventory2
+/home/sutanev/Documents/Code/progintro-exercises/Lectures/15_Abstract_Methods/Inventory2/bin/Debug/net8.0/Inventory2.deps.json
+/home/sutanev/Documents/Code/progintro-exercises/Lectures/15_Abstract_Methods/Inventory2/bin/Debug/net8.0/Inventory2.runtimeconfig.json
+/home/sutanev/Documents/Code/progintro-exercises/Lectures/15_Abstract_Methods/Inventory2/bin/Debug/net8.0/Inventory2.dll
+/home/sutanev/Documents/Code/progintro-exercises/Lectures/15_Abstract_Methods/Inventory2/bin/Debug/net8.0/Inventory2.pdb
+/home/sutanev/Documents/Code/progintro-exercises/Lectures/15_Abstract_Methods/Inventory2/obj/Debug/net8.0/Inventory2.GeneratedMSBuildEditorConfig.editorconfig
+/home/sutanev/Documents/Code/progintro-exercises/Lectures/15_Abstract_Methods/Inventory2/obj/Debug/net8.0/Inventory2.AssemblyInfoInputs.cache
+/home/sutanev/Documents/Code/progintro-exercises/Lectures/15_Abstract_Methods/Inventory2/obj/Debug/net8.0/Inventory2.AssemblyInfo.cs
+/home/sutanev/Documents/Code/progintro-exercises/Lectures/15_Abstract_Methods/Inventory2/obj/Debug/net8.0/Inventory2.csproj.CoreCompileInputs.cache
+/home/sutanev/Documents/Code/progintro-exercises/Lectures/15_Abstract_Methods/Inventory2/obj/Debug/net8.0/Inventory2.sourcelink.json
+/home/sutanev/Documents/Code/progintro-exercises/Lectures/15_Abstract_Methods/Inventory2/obj/Debug/net8.0/Inventory2.dll
+/home/sutanev/Documents/Code/progintro-exercises/Lectures/15_Abstract_Methods/Inventory2/obj/Debug/net8.0/refint/Inventory2.dll
+/home/sutanev/Documents/Code/progintro-exercises/Lectures/15_Abstract_Methods/Inventory2/obj/Debug/net8.0/Inventory2.pdb
+/home/sutanev/Documents/Code/progintro-exercises/Lectures/15_Abstract_Methods/Inventory2/obj/Debug/net8.0/Inventory2.genruntimeconfig.cache
+/home/sutanev/Documents/Code/progintro-exercises/Lectures/15_Abstract_Methods/Inventory2/obj/Debug/net8.0/ref/Inventory2.dll

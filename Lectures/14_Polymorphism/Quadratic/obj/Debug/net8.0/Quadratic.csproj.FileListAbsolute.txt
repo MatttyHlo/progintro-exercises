@@ -1,0 +1,15 @@
+/home/sutanev/Documents/Code/progintro-exercises/Lectures/14_Polymorphism/Quadratic/bin/Debug/net8.0/Quadratic
+/home/sutanev/Documents/Code/progintro-exercises/Lectures/14_Polymorphism/Quadratic/bin/Debug/net8.0/Quadratic.deps.json
+/home/sutanev/Documents/Code/progintro-exercises/Lectures/14_Polymorphism/Quadratic/bin/Debug/net8.0/Quadratic.runtimeconfig.json
+/home/sutanev/Documents/Code/progintro-exercises/Lectures/14_Polymorphism/Quadratic/bin/Debug/net8.0/Quadratic.dll
+/home/sutanev/Documents/Code/progintro-exercises/Lectures/14_Polymorphism/Quadratic/bin/Debug/net8.0/Quadratic.pdb
+/home/sutanev/Documents/Code/progintro-exercises/Lectures/14_Polymorphism/Quadratic/obj/Debug/net8.0/Quadratic.GeneratedMSBuildEditorConfig.editorconfig
+/home/sutanev/Documents/Code/progintro-exercises/Lectures/14_Polymorphism/Quadratic/obj/Debug/net8.0/Quadratic.AssemblyInfoInputs.cache
+/home/sutanev/Documents/Code/progintro-exercises/Lectures/14_Polymorphism/Quadratic/obj/Debug/net8.0/Quadratic.AssemblyInfo.cs
+/home/sutanev/Documents/Code/progintro-exercises/Lectures/14_Polymorphism/Quadratic/obj/Debug/net8.0/Quadratic.csproj.CoreCompileInputs.cache
+/home/sutanev/Documents/Code/progintro-exercises/Lectures/14_Polymorphism/Quadratic/obj/Debug/net8.0/Quadratic.sourcelink.json
+/home/sutanev/Documents/Code/progintro-exercises/Lectures/14_Polymorphism/Quadratic/obj/Debug/net8.0/Quadratic.dll
+/home/sutanev/Documents/Code/progintro-exercises/Lectures/14_Polymorphism/Quadratic/obj/Debug/net8.0/refint/Quadratic.dll
+/home/sutanev/Documents/Code/progintro-exercises/Lectures/14_Polymorphism/Quadratic/obj/Debug/net8.0/Quadratic.pdb
+/home/sutanev/Documents/Code/progintro-exercises/Lectures/14_Polymorphism/Quadratic/obj/Debug/net8.0/Quadratic.genruntimeconfig.cache
+/home/sutanev/Documents/Code/progintro-exercises/Lectures/14_Polymorphism/Quadratic/obj/Debug/net8.0/ref/Quadratic.dll
