@@ -1,0 +1,15 @@
+/home/sutanev/Documents/Code/progintro-exercises/Lectures/17_Collections_and_Sorting/CPR_Registry/bin/Debug/net8.0/CPR_Registry
+/home/sutanev/Documents/Code/progintro-exercises/Lectures/17_Collections_and_Sorting/CPR_Registry/bin/Debug/net8.0/CPR_Registry.deps.json
+/home/sutanev/Documents/Code/progintro-exercises/Lectures/17_Collections_and_Sorting/CPR_Registry/bin/Debug/net8.0/CPR_Registry.runtimeconfig.json
+/home/sutanev/Documents/Code/progintro-exercises/Lectures/17_Collections_and_Sorting/CPR_Registry/bin/Debug/net8.0/CPR_Registry.dll
+/home/sutanev/Documents/Code/progintro-exercises/Lectures/17_Collections_and_Sorting/CPR_Registry/bin/Debug/net8.0/CPR_Registry.pdb
+/home/sutanev/Documents/Code/progintro-exercises/Lectures/17_Collections_and_Sorting/CPR_Registry/obj/Debug/net8.0/CPR_Registry.GeneratedMSBuildEditorConfig.editorconfig
+/home/sutanev/Documents/Code/progintro-exercises/Lectures/17_Collections_and_Sorting/CPR_Registry/obj/Debug/net8.0/CPR_Registry.AssemblyInfoInputs.cache
+/home/sutanev/Documents/Code/progintro-exercises/Lectures/17_Collections_and_Sorting/CPR_Registry/obj/Debug/net8.0/CPR_Registry.AssemblyInfo.cs
+/home/sutanev/Documents/Code/progintro-exercises/Lectures/17_Collections_and_Sorting/CPR_Registry/obj/Debug/net8.0/CPR_Registry.csproj.CoreCompileInputs.cache
+/home/sutanev/Documents/Code/progintro-exercises/Lectures/17_Collections_and_Sorting/CPR_Registry/obj/Debug/net8.0/CPR_Registry.sourcelink.json
+/home/sutanev/Documents/Code/progintro-exercises/Lectures/17_Collections_and_Sorting/CPR_Registry/obj/Debug/net8.0/CPR_Registry.dll
+/home/sutanev/Documents/Code/progintro-exercises/Lectures/17_Collections_and_Sorting/CPR_Registry/obj/Debug/net8.0/refint/CPR_Registry.dll
+/home/sutanev/Documents/Code/progintro-exercises/Lectures/17_Collections_and_Sorting/CPR_Registry/obj/Debug/net8.0/CPR_Registry.pdb
+/home/sutanev/Documents/Code/progintro-exercises/Lectures/17_Collections_and_Sorting/CPR_Registry/obj/Debug/net8.0/CPR_Registry.genruntimeconfig.cache
+/home/sutanev/Documents/Code/progintro-exercises/Lectures/17_Collections_and_Sorting/CPR_Registry/obj/Debug/net8.0/ref/CPR_Registry.dll

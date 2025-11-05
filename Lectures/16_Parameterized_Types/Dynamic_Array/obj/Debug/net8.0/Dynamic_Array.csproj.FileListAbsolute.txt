@@ -1,0 +1,15 @@
+/home/sutanev/Documents/Code/progintro-exercises/Lectures/16_Parameterized_Types/Dynamic_Array/obj/Debug/net8.0/Dynamic_Array.GeneratedMSBuildEditorConfig.editorconfig
+/home/sutanev/Documents/Code/progintro-exercises/Lectures/16_Parameterized_Types/Dynamic_Array/obj/Debug/net8.0/Dynamic_Array.AssemblyInfoInputs.cache
+/home/sutanev/Documents/Code/progintro-exercises/Lectures/16_Parameterized_Types/Dynamic_Array/obj/Debug/net8.0/Dynamic_Array.AssemblyInfo.cs
+/home/sutanev/Documents/Code/progintro-exercises/Lectures/16_Parameterized_Types/Dynamic_Array/obj/Debug/net8.0/Dynamic_Array.csproj.CoreCompileInputs.cache
+/home/sutanev/Documents/Code/progintro-exercises/Lectures/16_Parameterized_Types/Dynamic_Array/obj/Debug/net8.0/Dynamic_Array.sourcelink.json
+/home/sutanev/Documents/Code/progintro-exercises/Lectures/16_Parameterized_Types/Dynamic_Array/bin/Debug/net8.0/Dynamic_Array
+/home/sutanev/Documents/Code/progintro-exercises/Lectures/16_Parameterized_Types/Dynamic_Array/bin/Debug/net8.0/Dynamic_Array.deps.json
+/home/sutanev/Documents/Code/progintro-exercises/Lectures/16_Parameterized_Types/Dynamic_Array/bin/Debug/net8.0/Dynamic_Array.runtimeconfig.json
+/home/sutanev/Documents/Code/progintro-exercises/Lectures/16_Parameterized_Types/Dynamic_Array/bin/Debug/net8.0/Dynamic_Array.dll
+/home/sutanev/Documents/Code/progintro-exercises/Lectures/16_Parameterized_Types/Dynamic_Array/bin/Debug/net8.0/Dynamic_Array.pdb
+/home/sutanev/Documents/Code/progintro-exercises/Lectures/16_Parameterized_Types/Dynamic_Array/obj/Debug/net8.0/Dynamic_Array.dll
+/home/sutanev/Documents/Code/progintro-exercises/Lectures/16_Parameterized_Types/Dynamic_Array/obj/Debug/net8.0/refint/Dynamic_Array.dll
+/home/sutanev/Documents/Code/progintro-exercises/Lectures/16_Parameterized_Types/Dynamic_Array/obj/Debug/net8.0/Dynamic_Array.pdb
+/home/sutanev/Documents/Code/progintro-exercises/Lectures/16_Parameterized_Types/Dynamic_Array/obj/Debug/net8.0/Dynamic_Array.genruntimeconfig.cache
+/home/sutanev/Documents/Code/progintro-exercises/Lectures/16_Parameterized_Types/Dynamic_Array/obj/Debug/net8.0/ref/Dynamic_Array.dll
