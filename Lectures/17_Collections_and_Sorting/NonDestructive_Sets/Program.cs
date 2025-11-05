@@ -37,7 +37,7 @@ class NdestructiveSet<T> : HashSet<T>, NondestructiveSet<T>
         }
         return newSet;
     }
-    public NondestructiveSet<T> Difference(NdestructiveSet<T> set){
+    public NdestructiveSet<T> Difference(NdestructiveSet<T> set){
         NdestructiveSet<T> newSet = new NdestructiveSet<T>();
         foreach(T item in this)
         {
